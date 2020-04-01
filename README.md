@@ -3,10 +3,18 @@ Criado pelo Pen para armazenar dados sobre os sistemas da HollowInk.
 
 ### Unidade 1: Conhecendo a HollowInk
 
-1. **Introdução**
-- Quem somos (história e objetivo)
-- Equipe
-- Redes Sociais
+## 1. **🚩 Introdução**
+ **QUEM SOMOS**
+Nós somos a HollowInk, uma guilda brasileira que acima de tudo valoriza o crescimento mútuo de seus membros. Se você gosta de ajudar outros jogadores e de se aventurar no Adventure Quest Worlds, está no lugar certo!
+ **EQUIPE**
+Para manter a guilda nos trilhos, o trabalho em equipe de todos é fundamental.
+Pen - Líder
+iTeka - Oficial & Designer
+Isabellinhah - Oficial & Designer
+Azurih - Oficial
+Fogo - Oficial
+Kabal - Oficial
+**REDES SOCIAIS**
 
 2. **Regras**
 - Direitos e deveres dos membros e dos oficiais
