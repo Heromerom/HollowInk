@@ -1,6 +1,8 @@
+
+![image](https://i.imgur.com/zAnY9KC.jpg)
 # HollowInk - Guilda do AQWorlds
 Aqui você começará sua jornada e se juntará a bravos aventureiros de toda Lore. Para te auxiliar nessa missão, criamos as unidades de aprendizagem, que irão te ensinar como funcionam as coisas por aqui.
-![image](https://i.imgur.com/zAnY9KC.jpg)
+
 ## Unidade 1: Conhecendo a HollowInk
 ### **🚩 Introdução**
  **QUEM SOMOS**
