@@ -1,8 +1,7 @@
 # HollowInk - Guilda do AQWorlds
-Criado pelo Pen para armazenar dados sobre os sistemas da HollowInk.
+*Criado pelo Pen.*
 
 ## Unidade 1: Conhecendo a HollowInk
-
 ### **🚩 Introdução**
  **QUEM SOMOS**
 
@@ -12,26 +11,27 @@ Criado pelo Pen para armazenar dados sobre os sistemas da HollowInk.
 
 >  Para manter a guilda nos trilhos, o trabalho em equipe de todos é fundamental.
 
-- Pen - Líder
-- iTeka - Oficial & Designer
-- Isabellinhah - Oficial & Designer
-- Azurih - Oficial
-- Fogo - Oficial
-- Kabal - Oficial
+- [Pen](http://aq.com/char/Pen) - Líder
+- [iTeka](http://aq.com/char/iTeka) - Oficial & Designer
+- [Isabellinhah](http://aq.com/char/Isabellinhah) - Oficial & Designer
+- [Azurih](http://aq.com/char/Azurih) - Oficial
+- [Fogo](http://aq.com/char/Fogo) - Oficial
+- [Kabal](http://aq.com/char/Kabal) - Oficial
 
 **REDES SOCIAIS**
 
-### **📜  Regras**
+Ao entrar na guilda primária, você terá acesso ao nosso grupo do Facebook e do WhatsApp. A participação neles é **obrigatória**.
 
-- É terminantemente proibido QUALQUER tipo de preconceito relacionado a raça, a sexualidade, a etnia, etc;
-- Não é permitido divulgar bots, launchers, trainers, macros, APKs ou qualquer outro programa de terceiros ilegal;
+### **📜  Regras**
+> A ordem é mantida através das regras. Torne-se um Lord of Order!
+- É terminantemente proibido **QUALQUER** tipo de preconceito relacionado a raça, a sexualidade, a etnia, etc;
+- Não é permitido divulgar ou usar bots, launchers, trainers, macros, APKs ou qualquer outro programa de terceiros ilegal;
 - Comércio, doação ou compartilhamento de contas é terminantemente proibido;
 - Não toleramos difamações de jogadores ou de guildas;
-- A guilda realiza desafios semanais internos que ao final do mês resultado em sorteios de ACs, Member ou HeroMart. A participação de no mínimo 1 desses desafios por mês é** obrigatória**.
-Atividade dentro do jogo e interação com o restante dos membros* (in-game e/ou grupo no WhatsApp)* é obrigatória.
-- E o que consideramos mais importante: ajudar outros players! (De dentro da guild ou não.)
+- Completar pelo menos um evento no nosso grupo do Facebook é **obrigatório**. Caso contrário, o membro será removido por inatividade;
+- E o que consideramos mais importante: ajude a quem precisar, seja eles da guilda ou não!
 
-Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um **Mute** no chat da guilda até a **expulsão permanente** do membro.
+Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um **mute** no chat da guilda até a **expulsão permanente** do membro.
 
 ### **🚀  Exclusividades**
 
@@ -39,13 +39,18 @@ Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma puniç
 
 **GUILD HALL**
 
-Somos a primeira guilda do servidor ESPADA a implantar o sistema de Guild Hall. Agora nossos membros tem um lugar para se reunir! Como chegar lá? Basta ir para **/house HollowInk**
+Somos a **primeira guilda** do servidor ESPADA a implantar o sistema de Guild Hall. Agora nossos membros tem um lugar para se reunir!
+
 ![image](https://user-images.githubusercontent.com/49551386/78179816-325a7100-7438-11ea-8a55-bebd343bbbc0.png)
+
+Como chegar lá? Basta ir para **/house HollowInk**
 
 **EVENTOS**
 
 > Ao longo de cada mês, realizamos eventos **obrigatórios** para verificarmos a atividade dos membros.
 
-- **Desafios Semanais** Toda semana propomos desafios diferentes, cuja dificuldade pode ir do fácil ao difícil. 
+- **Desafios Semanais** - propomos desafios diferentes toda semana, cuja dificuldade pode ir do fácil ao difícil. 
 - **Concursos** - vista-se de acordo com um tema proposto e que o melhor vença.
-- **Sorteios** - a cada evento concluído, você ganha um *Ticket* para participar do sorteio, ou seja, quanto mais você participar, mais chances terá de ganhar.
+- **Sorteios** - a cada evento concluído, você ganha um *Ticket* para participar de um sorteio mensal, ou seja, quanto mais você participar, mais chances terá de ganhar.
+
+## Obrigado por ler!
