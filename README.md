@@ -18,13 +18,17 @@ Criado pelo Pen para armazenar dados sobre os sistemas da HollowInk.
 - Qualquer outra invenção nossa que precise de uma breve introdução)
 
 ### Unidade 2: Sistemas da Guilda (título pendente)
-I) Guild Hall
-II) Desafios Semanais
-III) Concursos de Sets
- - Mensais
- - Patrocinados
-IV) Sorteios
-V) Assinatura
+1. **Guild Hall**
+
+2. **Desafios Semanais**
+
+3. **Concursos de Sets**
+- Mensais
+- Patrocinados
+
+4. **Sorteios**
+
+5. **Assinatura**
 
 
 
