@@ -1,5 +1,5 @@
 # HollowInk - Guilda do AQWorlds
-*Criado pelo Pen.*
+Aqui você começará sua jornada e se juntará a bravos aventureiros de toda Lore. Para te auxiliar nessa missão, criamos as unidades de aprendizagem, que irão te ensinar como funcionam as coisas por aqui.
 
 ## Unidade 1: Conhecendo a HollowInk
 ### **🚩 Introdução**
