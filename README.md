@@ -30,7 +30,7 @@ Ao entrar na guilda primária, você terá acesso ao nosso grupo do Facebook e d
 - Não é permitido divulgar ou usar bots, launchers, trainers, macros, APKs ou qualquer outro programa de terceiros ilegal;
 - Comércio, doação ou compartilhamento de contas é terminantemente proibido;
 - Não toleramos difamações de jogadores ou de guildas;
-- Completar pelo menos um evento no nosso grupo do Facebook é **obrigatório**. Caso contrário, o membro será removido por inatividade;
+- Completar pelo menos um **desafio semanal** no nosso grupo do Facebook é **obrigatório**. Caso contrário, o membro será removido por inatividade;
 - E o que consideramos mais importante: ajude a quem precisar, seja eles da guilda ou não!
 
 Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um **mute** no chat da guilda até a **expulsão permanente** do membro.
