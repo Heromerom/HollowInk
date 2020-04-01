@@ -38,11 +38,14 @@ Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma puniç
 > A HollowInk é uma guilda **única** e traz consigo inovações para melhor a sua experiência como membro.
 
 **GUILD HALL**
+
 Somos a primeira guilda do servidor ESPADA a implantar o sistema de Guild Hall. Agora nossos membros tem um lugar para se reunir! Como chegar lá? Basta ir para **/house HollowInk**
 ![image](https://user-images.githubusercontent.com/49551386/78179816-325a7100-7438-11ea-8a55-bebd343bbbc0.png)
 
 **EVENTOS**
+
 > Ao longo de cada mês, realizamos eventos **obrigatórios** para verificarmos a atividade dos membros.
+
 - **Desafios Semanais** Toda semana propomos desafios diferentes, cuja dificuldade pode ir do fácil ao difícil. 
 - **Concursos** - vista-se de acordo com um tema proposto e que o melhor vença.
 - **Sorteios** - a cada evento concluído, você ganha um *Ticket* para participar do sorteio, ou seja, quanto mais você participar, mais chances terá de ganhar.
