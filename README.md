@@ -39,6 +39,7 @@ Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma puniç
 
 **GUILD HALL**
 Somos a primeira guilda do servidor ESPADA a implantar o sistema de Guild Hall. Agora nossos membros tem um lugar para se reunir! Como chegar lá? Basta ir para **/house HollowInk**
+![image](https://user-images.githubusercontent.com/49551386/78179816-325a7100-7438-11ea-8a55-bebd343bbbc0.png)
 
 **EVENTOS**
 > Ao longo de cada mês, realizamos eventos **obrigatórios** para verificarmos a atividade dos membros.
