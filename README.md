@@ -22,7 +22,7 @@ Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda 
 
 **REDES SOCIAIS**
 
-Ao entrar na guilda primária, você terá acesso ao nosso grupo do Facebook e do WhatsApp. A participação neles é **obrigatória**.
+Ao entrar na guilda primária, você terá acesso ao nosso grupo do Facebook e do [WhatsApp](http://abre.ai/hollowink). A participação neles é **obrigatória**.
 
 ### **📜  Regras**
 > A ordem é mantida através das regras. Torne-se um Lord of Order!
