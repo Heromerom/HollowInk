@@ -21,8 +21,10 @@ Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda 
 - [Kabal](http://aq.com/char/Kabal) - Oficial
 
 **REDES SOCIAIS**
-
-Ao entrar na guilda primária, você terá acesso ao nosso grupo do Facebook e do [WhatsApp](http://abre.ai/hollowink). A participação neles é **obrigatória**.
+> Fique por dentro de tudo o que acontece na guilda ao participar dos nossos grupos!
+- [WhatsApp](http://abre.ai/hollowink);
+- Facebook (você terá acesso a esse grupo quando entrar na guilda principal);
+- Curta a nossa [página no Facebook!](https://www.facebook.com/HollowInkGuild/)
 
 ### **📜  Regras**
 > A ordem é mantida através das regras. Torne-se um Lord of Order!
