@@ -24,8 +24,8 @@ Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda 
 > Fique por dentro de tudo o que acontece na guilda ao participar dos nossos grupos!
 - [WhatsApp](http://abre.ai/hollowink);
 - [Discord](https://discord.gg/EShjXDj);
-- [Facebook]()(você terá acesso a esse grupo quando entrar na guilda principal);
-- Curta a nossa [página no Facebook!](https://www.facebook.com/HollowInkGuild/)
+- [Facebook]() (você terá acesso a esse grupo quando entrar na guilda principal);
+- Curta a nossa [página no Facebook!](https://www.facebook.com/HollowInkGuild/).
 
 ### **📜  Regras**
 > A ordem é mantida através das regras. Torne-se um Lord of Order!
