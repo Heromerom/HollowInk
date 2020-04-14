@@ -3,7 +3,7 @@
 # HollowInk - Guilda do AQWorlds
 Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda Lore. Para te auxiliar nessa missão, criamos as unidades de aprendizagem, que irão te ensinar como funcionam as coisas por aqui.
 
-## Unidade 1: Conhecendo a HollowInk
+## UNIDADE 1: Conhecendo a HollowInk
 ### **🚩 Introdução**
  **QUEM SOMOS**
 
@@ -15,7 +15,7 @@ Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda 
 
 - [Pen](http://aq.com/char/Pen) - Líder
 - [iTeka](http://aq.com/char/iTeka) - Oficial & Designer
-- [Isabellinhah](http://aq.com/char/Isabellinhah) - Oficial & Designer
+- [Meikka](http://aq.com/char/Meikka) - Oficial & Designer
 - [Azurih](http://aq.com/char/Azurih) - Oficial
 - [Fogo](http://aq.com/char/Fogo) - Oficial
 - [Kabal](http://aq.com/char/Kabal) - Oficial
