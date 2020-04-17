@@ -10,7 +10,7 @@
 
 [📜  REGRAS](#--regras)
 
-[🚀  EXCLUSIVO](#--exclusivO)
+[🚀  EXCLUSIVO](#--exclusivo)
 
 <hr>
 
