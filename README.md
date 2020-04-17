@@ -5,14 +5,11 @@
 
 ## UNIDADE 1: Conhecendo a HollowInk
 
-<p align="center"><a href=#-introdução>🚩 Introdução</a></p>
-<p align="center"><a href=#--regras>📜 Regras</a></p>
-<p align="center"><a href=#--exclusividades>🚀 Exclusividades</a></p>
 
 ### **🚩 Introdução** 
  **QUEM SOMOS**
 
-<p align="justify">Nós somos a HollowInk, uma guilda brasileira que acima de tudo valoriza o crescimento mútuo de seus membros. Se você gosta de <b>ajudar</b> outros jogadores e de <b>se aventurar</b> no *Adventure Quest Worlds*, está no lugar certo!</p>
+<p align="justify">Nós somos a HollowInk, uma guilda brasileira que acima de tudo valoriza o crescimento mútuo de seus membros. Se você gosta de <b>ajudar</b> outros jogadores e de <b>se aventurar</b> no <i>Adventure Quest Worlds</i>, está no lugar certo!</p>
  
  **EQUIPE**
 
@@ -44,7 +41,7 @@
 - Completar pelo menos um **desafio semanal** no nosso grupo do Facebook é **obrigatório**. Caso contrário, o membro será removido por inatividade;
 - E o que consideramos mais importante: ajude a quem precisar, sejam eles da guilda ou não!
 
-<p align="justify">Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um **mute** no chat da guilda até a **expulsão permanente** do membro.</p>
+<p align="justify">Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um <b>mute</b> no chat da guilda até a <b>expulsão permanente</b> do membro.</p>
 
 ### **🚀  Exclusividades**
 
@@ -52,7 +49,7 @@
 
 **GUILD HALL**
 
-Somos a **primeira guilda** do servidor ESPADA a implementar o sistema de Guild Hall funcional. Agora nossos membros tem um lugar para se reunir!
+<p align="justify">Somos a <b>primeira guilda</b> do servidor ESPADA a implementar o sistema de Guild Hall funcional. Agora nossos membros tem um lugar para se reunir!</p>
 
 ![image](https://user-images.githubusercontent.com/49551386/78179816-325a7100-7438-11ea-8a55-bebd343bbbc0.png)
 
@@ -65,6 +62,7 @@ Como chegar lá? Basta ir para **/house HollowInk**
 - **Desafios Semanais** - propomos desafios diferentes toda semana, cuja dificuldade pode ir do fácil ao difícil. 
 - **Concursos** - vista-se de acordo com um tema proposto e que o melhor vença.
 - **Sorteios** - a cada evento concluído, você ganha um *Ticket* para participar de um sorteio mensal, ou seja, quanto mais você participar, mais chances terá de ganhar.
-- **Torneios** - *em breve!*
+- **Arena** - *em breve!*
 
 ## Obrigado por ler! 
+
