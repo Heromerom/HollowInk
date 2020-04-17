@@ -3,7 +3,7 @@
 
 <p align="justify">Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda Lore. Para te auxiliar nessa missão, criamos as unidades de aprendizagem, que irão te ensinar como funcionam as coisas por aqui.</p>
 
-<h1>UNIDADE 1: Conhecendo a HollowInk</h1>
+<h2>UNIDADE 1: Conhecendo a HollowInk</h2>
 
 <hr>
 
