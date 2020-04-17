@@ -7,7 +7,7 @@
 
 
 
-<a name=”intro”></a>
+
 ### **🚩 Introdução** 
  **QUEM SOMOS**
 
@@ -66,4 +66,4 @@ Como chegar lá? Basta ir para **/house HollowInk**
 - **Sorteios** - a cada evento concluído, você ganha um *Ticket* para participar de um sorteio mensal, ou seja, quanto mais você participar, mais chances terá de ganhar.
 - **Torneios** - *em breve!*
 
-## Obrigado por ler! <a href=”#intro”>INTRO</a>
+## Obrigado por ler! <a href=”#-introdução”>INTRO</a>
