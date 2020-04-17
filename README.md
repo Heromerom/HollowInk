@@ -3,10 +3,11 @@
 
 <p align="justify">Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda Lore. Para te auxiliar nessa missão, criamos as unidades de aprendizagem, que irão te ensinar como funcionam as coisas por aqui.</p>
 
-## <p align="center"><h1>UNIDADE 1: Conhecendo a HollowInk</h1></p>
+<h1>UNIDADE 1: Conhecendo a HollowInk</h1>
 
+<hr>
 
-<p align="center"><h3>🚩 INTRODUÇÃO</h3></p> 
+<h3>🚩 INTRODUÇÃO</h3> 
  
  **QUEM SOMOS**
 
@@ -32,7 +33,9 @@
 - [Facebook]() (você terá acesso a esse grupo quando entrar na guilda principal);
 - Curta a nossa [página no Facebook!](https://www.facebook.com/HollowInkGuild/).
 
-### **📜  Regras**
+<hr>
+
+<h3>📜  REGRAS</h3>
 > A ordem é mantida através das regras. Torne-se um Lord of Order!
 
 - É terminantemente proibido **QUALQUER** tipo de preconceito relacionado a raça, a sexualidade, a etnia, etc;
@@ -44,7 +47,9 @@
 
 <p align="justify">Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um <b>mute</b> no chat da guilda até a <b>expulsão permanente</b> do membro.</p>
 
-### **🚀  Exclusividades**
+<hr>
+
+<h3>🚀  EXCLUSIVO</h3>
 
 > A HollowInk é uma guilda **única** e traz consigo inovações para melhorar a sua experiência como membro.
 
