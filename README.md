@@ -6,8 +6,8 @@
 ## UNIDADE 1: Conhecendo a HollowInk
 
 <p align="center"><a href=#-introdução>🚩 Introdução</a></p>
-<p align="center"><a href=#-regras>📜 Regras</a></p>
-<p align="center"><a href=#-exclusividades>🚀 Exclusividades</a></p>
+<p align="center"><a href=#--regras>📜 Regras</a></p>
+<p align="center"><a href=#--exclusividades>🚀 Exclusividades</a></p>
 
 ### **🚩 Introdução** 
  **QUEM SOMOS**
