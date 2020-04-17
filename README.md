@@ -1,5 +1,6 @@
 
 ![image](https://i.imgur.com/zAnY9KC.jpg)
+
 # HollowInk - Guilda do AQWorlds
 Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda Lore. Para te auxiliar nessa missão, criamos as unidades de aprendizagem, que irão te ensinar como funcionam as coisas por aqui.
 
@@ -22,6 +23,7 @@ Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda 
 
 **REDES SOCIAIS**
 > Fique por dentro de tudo o que acontece na guilda ao participar dos nossos grupos!
+
 - [WhatsApp](http://abre.ai/hollowink);
 - [Twitter](https://twitter.com/HollowInkAQW);
 - [Discord](https://discord.gg/EShjXDj);
@@ -30,6 +32,7 @@ Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda 
 
 ### **📜  Regras**
 > A ordem é mantida através das regras. Torne-se um Lord of Order!
+
 - É terminantemente proibido **QUALQUER** tipo de preconceito relacionado a raça, a sexualidade, a etnia, etc;
 - Não é permitido divulgar ou usar bots, launchers, trainers, macros, APKs ou qualquer outro programa de terceiros ilegal;
 - Comércio, doação ou compartilhamento de contas é terminantemente proibido;
