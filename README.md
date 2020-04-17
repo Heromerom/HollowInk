@@ -4,7 +4,11 @@
 <p align="justify">Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda Lore. Para te auxiliar nessa missão, criamos as unidades de aprendizagem, que irão te ensinar como funcionam as coisas por aqui.</p>
 
 ## UNIDADE 1: Conhecendo a HollowInk
-### **🚩 Introdução**
+
+
+
+<a name=”intro”></a>
+### **🚩 Introdução** 
  **QUEM SOMOS**
 
 <p align="justify">Nós somos a HollowInk, uma guilda brasileira que acima de tudo valoriza o crescimento mútuo de seus membros. Se você gosta de <b>ajudar</b> outros jogadores e de <b>se aventurar</b> no *Adventure Quest Worlds*, está no lugar certo!</p>
@@ -62,4 +66,4 @@ Como chegar lá? Basta ir para **/house HollowInk**
 - **Sorteios** - a cada evento concluído, você ganha um *Ticket* para participar de um sorteio mensal, ou seja, quanto mais você participar, mais chances terá de ganhar.
 - **Torneios** - *em breve!*
 
-## Obrigado por ler!
+## Obrigado por ler! <a href=”#intro”>INTRO</a>
