@@ -4,6 +4,7 @@
 <p align="justify">Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda Lore. Para te auxiliar nessa missão, criamos as unidades de aprendizagem, que irão te ensinar como funcionam as coisas por aqui.</p>
 
 <h2>UNIDADE 1: Conhecendo a HollowInk</h2>
+<p align="justify">Nesta unidade, iremos te introduzir à guilda. Falaremos sobre quem somos, sobre a nossa equipe, sobre nossas regras e sobre o que oferecemos de diferente.</p>
 
 <hr>
 
