@@ -67,7 +67,7 @@ Como chegar lá? Basta ir para **/house HollowInk**
 
 - **Desafios Semanais** - propomos desafios diferentes toda semana, cuja dificuldade pode ir do fácil ao difícil. 
 - **Concursos** - vista-se de acordo com um tema proposto e que o melhor vença.
-- **Sorteios** - a cada evento concluído, você ganha um *Ticket* para participar de um sorteio mensal, ou seja, quanto mais você participar, mais chances terá de ganhar.
+- **Sorteios** - <p align="justify">a cada evento concluído, você ganha um 🎫 <i>Hollow Ticket</i> para participar de um sorteio mensal, ou seja, quanto mais você participar, mais chances terá de ganhar.</p>
 - **Arena** - *em breve!*
 
 ## Obrigado por ler! 
