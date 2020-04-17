@@ -12,11 +12,9 @@
 
 [🚀  EXCLUSIVO](#--exclusivo)
 
-
+![image](https://i.imgur.com/voznQTw.png)
 
 ### 🚩 INTRODUÇÃO 
-
-![image](https://i.imgur.com/Zzb33rK.png)
 
 **QUEM SOMOS**
 
@@ -56,7 +54,7 @@
 
 <p align="justify">Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um <b>mute</b> no chat da guilda até a <b>expulsão permanente</b> do membro.</p>
 
-![image](https://i.imgur.com/0mdtgBO.png)
+![image](https://i.imgur.com/voznQTw.png)
 
 ### 🚀  EXCLUSIVO
 
@@ -78,6 +76,8 @@ Como chegar lá? Basta ir para **/house HollowInk**
 - **Concursos** - vista-se de acordo com um tema proposto e que o melhor vença.
 - **Sorteios** - a cada evento concluído, você ganha um 🎫 <i>Hollow Ticket</i> para participar de um sorteio mensal, ou seja, quanto mais você participar, mais chances terá de ganhar.
 - **Arena** - *em breve!*
+
+![image](https://i.imgur.com/voznQTw.png)
 
 ## Obrigado por ler! 
 
