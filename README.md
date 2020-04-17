@@ -1,13 +1,13 @@
 
 ![image](https://user-images.githubusercontent.com/49551386/79494029-b431c900-7ff8-11ea-9de3-2c8bf7e85a4d.png)
 
-Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda Lore. Para te auxiliar nessa missão, criamos as unidades de aprendizagem, que irão te ensinar como funcionam as coisas por aqui.
+<p align="justify">Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda Lore. Para te auxiliar nessa missão, criamos as unidades de aprendizagem, que irão te ensinar como funcionam as coisas por aqui.</p>
 
 ## UNIDADE 1: Conhecendo a HollowInk
 ### **🚩 Introdução**
  **QUEM SOMOS**
 
- Nós somos a HollowInk, uma guilda brasileira que acima de tudo valoriza o crescimento mútuo de seus membros. Se você gosta de **ajudar** outros jogadores e de **se aventurar** no *Adventure Quest Worlds*, está no lugar certo!
+<p align="justify">Nós somos a HollowInk, uma guilda brasileira que acima de tudo valoriza o crescimento mútuo de seus membros. Se você gosta de <b>ajudar</b> outros jogadores e de <b>se aventurar</b> no *Adventure Quest Worlds*, está no lugar certo!</p>
  
  **EQUIPE**
 
@@ -39,7 +39,7 @@ Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda 
 - Completar pelo menos um **desafio semanal** no nosso grupo do Facebook é **obrigatório**. Caso contrário, o membro será removido por inatividade;
 - E o que consideramos mais importante: ajude a quem precisar, sejam eles da guilda ou não!
 
-Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um **mute** no chat da guilda até a **expulsão permanente** do membro.
+<p align="justify">Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um **mute** no chat da guilda até a **expulsão permanente** do membro.</p>
 
 ### **🚀  Exclusividades**
 
