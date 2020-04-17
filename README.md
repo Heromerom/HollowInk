@@ -6,9 +6,11 @@
 <h2>UNIDADE 1: Conhecendo a HollowInk</h2>
 <p align="justify">Nesta unidade, iremos te introduzir à guilda. Falaremos sobre quem somos, sobre a nossa equipe, sobre nossas regras e sobre o que oferecemos de diferente.</p>
 
-[A](#-introdução)
-[B](#--regras)
-[C](#--exclusividades)
+[🚩 INTRODUÇÃO](#-introdução)
+
+[📜  REGRAS](#--regras)
+
+[🚀  EXCLUSIVO](#--exclusivO)
 
 <hr>
 
