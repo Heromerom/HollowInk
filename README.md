@@ -12,7 +12,7 @@
 
 [🚀  EXCLUSIVO](#--exclusivo)
 
-<hr>
+![image](https://i.imgur.com/Zzb33rK.png)
 
 ### 🚩 INTRODUÇÃO 
  
@@ -40,7 +40,7 @@
 - [Facebook]() (você terá acesso a esse grupo quando entrar na guilda principal);
 - Curta a nossa [página no Facebook!](https://www.facebook.com/HollowInkGuild/).
 
-<hr>
+![image](https://i.imgur.com/voznQTw.png)
 
 ### 📜  REGRAS
 > A ordem é mantida através das regras. Torne-se um Lord of Order!
@@ -54,7 +54,7 @@
 
 <p align="justify">Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um <b>mute</b> no chat da guilda até a <b>expulsão permanente</b> do membro.</p>
 
-<hr>
+![image](https://i.imgur.com/0mdtgBO.png)
 
 ### 🚀  EXCLUSIVO
 
