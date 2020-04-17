@@ -12,15 +12,17 @@
 
 [🚀  EXCLUSIVO](#--exclusivo)
 
-![image](https://i.imgur.com/Zzb33rK.png)
+
 
 ### 🚩 INTRODUÇÃO 
- 
- **QUEM SOMOS**
+
+![image](https://i.imgur.com/Zzb33rK.png)
+
+**QUEM SOMOS**
 
 <p align="justify">Nós somos a HollowInk, uma guilda brasileira que acima de tudo valoriza o crescimento mútuo de seus membros. Se você gosta de <b>ajudar</b> outros jogadores e de <b>se aventurar</b> no <i>Adventure Quest Worlds</i>, está no lugar certo!</p>
  
- **EQUIPE**
+**EQUIPE**
 
 >  Para manter a guilda nos trilhos, o trabalho em equipe de todos é fundamental.
 
