@@ -1,5 +1,17 @@
 theme: jekyll-theme-minimal
 title: <p align="center">HollowInk</p>
-description: <a href="#-introdução">🚩 INTRODUÇÃO</a>&#013;<a href="#--regras">🚩 REGRAS</a>
+description: {
+<table>
+  <tr>
+    <td>Tópico</td>
+  </tr>
+  <tr>
+  <td><a href="#-introdução">🚩 INTRODUÇÃO</a></td>
+  </tr>
+</table>
+}
+
+
+<a href="#-introdução">🚩 INTRODUÇÃO</a>&#013;<a href="#--regras">🚩 REGRAS</a>
 show_downloads: false
 logo: "https://i.imgur.com/QFu1fC5.png"
