@@ -93,7 +93,5 @@ Como chegar lá? Basta ir para **/house HollowInk**
   <img src="https://i.imgur.com/mLzkOtp.png">
  </a>
 </center>
- 
-<br> 
 <p align="center">Concorda com o que foi dito e gostaria de se juntar a HollowInk? Acesse nosso formulário de recrutamento.</p>
 
