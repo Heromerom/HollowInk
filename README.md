@@ -91,10 +91,8 @@ Como chegar lá? Basta ir para **/house HollowInk**
 <style>
 .h_iframe iframe {
     width:100%;
-    height:100%;
 }
 .h_iframe {
-    height: 100%;
     width:100%;
 }
 </style>
