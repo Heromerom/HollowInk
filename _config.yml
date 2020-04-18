@@ -1,25 +1,5 @@
 theme: jekyll-theme-minimal
 title: <p align="center">HollowInk</p>
-description: <table>
-	<tbody>
-		<tr style="height: 16px;">
-			<td style="height: 16px;">
-				<p align="center">&nbsp;T&oacute;picos</p>
-			</td>
-		</tr>
-		<tr style="height: 23px;">
-			<td style="height: 23px;">&nbsp;<a href="#-introdu%C3%A7%C3%A3o">🚩 INTRODU&Ccedil;&Atilde;O</a></td>
-		</tr>
-		<tr style="height: 23px;">
-			<td style="height: 23px;">&nbsp;<a href="https://heromerom.github.io/HollowInk/#--regras">📜 REGRAS</a></td>
-		</tr>
-		<tr style="height: 23px;">
-			<td style="height: 23px;">&nbsp;<a href="https://heromerom.github.io/HollowInk/#--exclusivo">🚀 EXCLUSIVO</a></td>
-		</tr>
-		<tr style="height: 23px;">
-			<td style="height: 23px;">&nbsp;<a href="https://heromerom.github.io/HollowInk/#--exclusivo">🚀 RECRUTAR&nbsp;</a></td>
-		</tr>
-	</tbody>
-</table> 
+description: <table><tbody><tr style="height: 16px;"><td style="height: 16px;"><p align="center">&nbsp;T&oacute;picos</p></td></tr><tr style="height: 23px;"><td style="height: 23px;">&nbsp;<a href="#-introdu%C3%A7%C3%A3o">🚩 INTRODU&Ccedil;&Atilde;O</a></td></tr><tr style="height: 23px;"><td style="height: 23px;">&nbsp;<a href="https://heromerom.github.io/HollowInk/#--regras">📜 REGRAS</a></td></tr><tr style="height: 23px;"><td style="height: 23px;">&nbsp;<a href="https://heromerom.github.io/HollowInk/#--exclusivo">🚀 EXCLUSIVO</a></td></tr><tr style="height: 23px;"><td style="height: 23px;">&nbsp;<a href="https://heromerom.github.io/HollowInk/#--exclusivo">🚀 RECRUTAR&nbsp;</a></td></tr></tbody></table> 
 show_downloads: false
 logo: "https://i.imgur.com/QFu1fC5.png"
