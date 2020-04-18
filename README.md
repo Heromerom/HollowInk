@@ -100,7 +100,7 @@ Como chegar lá? Basta ir para **/house HollowInk**
 </style>
 
 <div class="h_iframe">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScqgRAgK1IV4MKHZVbnI_TWeV5rjHanXIcQWllcd6ddOhWHKg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScqgRAgK1IV4MKHZVbnI_TWeV5rjHanXIcQWllcd6ddOhWHKg/viewform?embedded=true" frameborder="0">Carregando…</iframe>
 </div>
 
 
