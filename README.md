@@ -14,7 +14,6 @@
 [📜  REGRAS](#--regras)
 
 [🚀  EXCLUSIVO](#--exclusivo)
-
 <hr>
 
 ### 🚩 INTRODUÇÃO 
@@ -43,6 +42,7 @@
 - [Facebook]() (você terá acesso a esse grupo quando entrar na guilda principal);
 - Curta a nossa [página no Facebook!](https://www.facebook.com/HollowInkGuild/).
 
+[⬆️ VOLTAR PARA O TOPO](#unidade-1-conhecendo-a-hollowink)
 <hr>
 
 ### 📜  REGRAS
@@ -57,6 +57,7 @@
 
 <p align="justify">Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um <b>mute</b> no chat da guilda até a <b>expulsão permanente</b> do membro.</p>
 
+[⬆️ VOLTAR PARA O TOPO](#unidade-1-conhecendo-a-hollowink)
 <hr>
 
 ### 🚀  EXCLUSIVO
@@ -79,6 +80,7 @@ Como chegar lá? Basta ir para **/house HollowInk**
 - **Concursos** - vista-se de acordo com um tema proposto e que o melhor vença.
 - **Sorteios** - a cada evento concluído, você ganha um 🎫 <i>Hollow Ticket</i> para participar de um sorteio mensal.
 - **Arena** - *em breve!*
+[⬆️ VOLTAR PARA O TOPO](#unidade-1-conhecendo-a-hollowink)
 
 ![image](https://i.imgur.com/voznQTw.png)
 
@@ -101,4 +103,4 @@ Como chegar lá? Basta ir para **/house HollowInk**
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScqgRAgK1IV4MKHZVbnI_TWeV5rjHanXIcQWllcd6ddOhWHKg/viewform?embedded=true" height="900" frameborder="0">Carregando…</iframe>
 </div>
 
-
+[⬆️ VOLTAR PARA O TOPO](#unidade-1-conhecendo-a-hollowink)
