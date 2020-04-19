@@ -1,81 +1,112 @@
+## Jasper2
 
-![image](https://user-images.githubusercontent.com/49551386/79494029-b431c900-7ff8-11ea-9de3-2c8bf7e85a4d.png)
+[![Build Status](https://travis-ci.org/jekyller/jasper2.svg?branch=master)](https://travis-ci.org/jekyller/jasper2)
+[![Ruby](https://img.shields.io/badge/ruby-2.5.1-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper2)
+[![Jekyll](https://img.shields.io/badge/jekyll-3.7.4-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper2)
 
-<p align="justify">Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda Lore. Para te auxiliar nessa missão, criamos as unidades de aprendizagem, que irão te ensinar como funcionam as coisas por aqui.</p>
+This is a full-featured port of Ghost's default theme [Casper](https://github.com/tryghost/casper)
+*v2.1.9* for [Jekyll](https://jekyllrb.com/) / [GitHub Pages](https://pages.github.com/).
 
-## UNIDADE 1: Conhecendo a HollowInk
-<p align="justify">Nesta unidade, iremos te introduzir à guilda. Falaremos sobre quem somos, sobre a nossa equipe, sobre nossas regras e sobre o que oferecemos de diferente. Confirá o sumário desta publicação:</p>
+## Live Demo
 
-[🚩 INTRODUÇÃO](#-introdução)
+[Ghost's Casper](https://demo.ghost.io) // [Jasper2](https://jekyller.github.io/jasper2)
 
-[📜  REGRAS](#--regras)
+![home page](https://raw.githubusercontent.com/jekyller/jasper2/master/assets/screenshot-desktop.jpg)
 
-[🚀  EXCLUSIVO](#--exclusivo)
 
-<hr>
+## Features
 
-### 🚩 INTRODUÇÃO 
- 
- **QUEM SOMOS**
+* Out of the box support for multiple authors (via `_data/authors.yml`)
+* Full author information including: picture, bio, website, twitter, facebook, etc.
+* Tag description(s) and personalised covers (via `_data/tags.yml`)
+* Related posts view at the bottom of each post
+* All Ghost default pages: Author page(s), Tag page(s), About page(s), 404, etc.
+* Pagination (infinite scrolling or standard pagination, i.e. posts across multiple pages)
+* Atom Feeds by [Jekyll-feed](https://github.com/jekyll/jekyll-feed)
+* Toggleable subscribe button (requires an external service)
+* Code Syntax Highlight with [highlight.js](https://highlightjs.org/)
+* Support for Google Analytics tracking
+* Support for Disqus comments (not Ghost standard)
 
-<p align="justify">Nós somos a HollowInk, uma guilda brasileira que acima de tudo valoriza o crescimento mútuo de seus membros. Se você gosta de <b>ajudar</b> outros jogadores e de <b>se aventurar</b> no <i>Adventure Quest Worlds</i>, está no lugar certo!</p>
- 
- **EQUIPE**
 
->  Para manter a guilda nos trilhos, o trabalho em equipe de todos é fundamental.
+## Getting Started
 
-- [Pen](http://aq.com/char/Pen) - Líder
-- [iTeka](http://aq.com/char/iTeka) - Oficial & Designer
-- [Meikka](http://aq.com/char/Meikka) - Oficial & Designer
-- [Azurih](http://aq.com/char/Azurih) - Oficial
-- [Fogo](http://aq.com/char/Fogo) - Oficial
-- [Kabal](http://aq.com/char/Kabal) - Oficial
+### Deployment
 
-**REDES SOCIAIS**
-> Fique por dentro de tudo o que acontece na guilda ao participar dos nossos grupos!
+**Important:**  For security reasons, Github does not allow plugins (under `_plugins/`) when
+deploying with Github Pages. This means:
 
-- [WhatsApp](http://abre.ai/hollowink);
-- [Twitter](https://twitter.com/HollowInkAQW);
-- [Discord](https://discord.gg/EShjXDj);
-- [Facebook]() (você terá acesso a esse grupo quando entrar na guilda principal);
-- Curta a nossa [página no Facebook!](https://www.facebook.com/HollowInkGuild/).
+**1)** that we need to generate your site locally (more details below) and push the resulting
+HTML (the contents of `_site/` or `../jasper2-pages/`) to a Github repository, that GitHub Pages
+then host;
 
-<hr>
+**2)** built the site with [travis-ci](https://travis-ci.org/) (with goodies from
+[jekyll-travis](https://github.com/mfenner/jekyll-travis)) automatically pushing the
+generated HTML files to a *gh-pages* branch.
+This later approach is the one I am currently using to generate the live demo.
 
-### 📜  REGRAS
-> A ordem é mantida através das regras. Torne-se um Lord of Order!
+**3)** deploy the static website with Jekyll-compatible hosters, such as https://www.netlify.com/, that allow for deployment from the Github repo and publish the website using CDNs. Netlify has a free starter offer.
 
-- É terminantemente proibido **QUALQUER** tipo de preconceito relacionado a raça, a sexualidade, a etnia, etc;
-- Não é permitido divulgar ou usar bots, launchers, trainers, macros, APKs ou qualquer outro programa de terceiros ilegal;
-- Comércio, doação ou compartilhamento de contas é terminantemente proibido;
-- Não toleramos difamações de jogadores ou de guildas;
-- Completar pelo menos um **desafio semanal** no nosso grupo do Facebook é **obrigatório**. Caso contrário, o membro será removido por inatividade;
-- E o que consideramos mais importante: ajude a quem precisar, sejam eles da guilda ou não!
+For option **1)** simply clone this repository (*master branch*), and then run
+`bundle exec jekyll serve` inside the directory. Upload the resulting `_site/` (or `../jasper2-pages/`)
+contents to your repository (*master branch* if uploading as your personal page
+(e.g. username.github.io) or *gh-pages branch* if uploading as a project page
+(as for the [demo](https://github.com/jekyller/jasper2/tree/gh-pages)).
 
-<p align="justify">Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um <b>mute</b> no chat da guilda até a <b>expulsão permanente</b> do membro.</p>
+For option **2)** you will need to set up travis-ci for your personal fork. Briefly all you
+need then is to change your details in *[\_config.yml](_config.yml)* so that you can push
+to your github repo. You will also need to generate a secure key to add to your
+*[.travis.yml](.travis.yml)* (you can find more info on how to do it in that file).
+Also make sure you read the documentation from
+[jekyll-travis](https://github.com/mfenner/jekyll-travis). This approach has clear
+advantages in that you simply push your file changes to GitHub and all the HTML files
+are generated for you and pushed to *gh-pages*. Also you get to know if everything is
+still fine with your site builds. Don't hesitate to contact me if you still have any
+issues (see below about issue tracking).
 
-<hr>
+### Author Pages
 
-### 🚀  EXCLUSIVO
+In order to properly generate author pages you need to rename the field *author* in the
+front matter of every post to match that of your each author's *username* as defined
+in the *[\_data/authors.yml](_data/authors.yml)* file.
+With the latest update, multiple author blogs are now supported out of the box.
 
-> A HollowInk é uma guilda **única** e traz consigo inovações para melhorar a sua experiência como membro.
+### Compiling Styles
 
-**GUILD HALL**
+Following on the way Casper styles are compiled as [described here](https://github.com/tryghost/casper#development):
 
-<p align="justify">Somos a <b>primeira guilda</b> do servidor ESPADA a implementar o sistema de Guild Hall funcional. Agora nossos membros tem um lugar para se reunir!</p>
+Jasper2 styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need Node and Gulp installed globally. After that, from the theme's root directory:
 
-![image](https://user-images.githubusercontent.com/49551386/78179816-325a7100-7438-11ea-8a55-bebd343bbbc0.png)
+```bash
+$ npm install
+$ gulp
+```
 
-Como chegar lá? Basta ir para **/house HollowInk**
+Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/` automatically.
 
-**EVENTOS**
+## Issues and Contributing
 
-> Ao longo de cada mês, realizamos eventos **obrigatórios** para verificarmos a atividade dos membros.
+This install builds well with Ruby v2.5.1 and Jekyll v3.7.4. If you run into any problems
+please log them on the [issue tracker](https://github.com/jekyller/jasper2/issues).
 
-- **Desafios Semanais** - propomos desafios diferentes toda semana, cuja dificuldade pode ir do fácil ao difícil. 
-- **Concursos** - vista-se de acordo com um tema proposto e que o melhor vença.
-- **Sorteios** - a cada evento concluído, você ganha um 🎫 <i>Hollow Ticket</i> para participar de um sorteio mensal, ou seja, quanto mais você participar, mais chances terá de ganhar.
-- **Arena** - *em breve!*
+Feel free pull-request your patches and fixes.
 
-## Obrigado por ler! 
+## Thanks
 
+
+Many thanks to the Ghost team for all the design work. Also many thanks to all contributors,
+that help keeping the project alive and updated :smile:
+
+
+## Copyright & License
+
+Same licence as the one provided by Ghost's team. See Casper's theme [license](GHOST.txt).
+
+Copyright (C) 2015-2018 - Released under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
