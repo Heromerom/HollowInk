@@ -36,7 +36,7 @@
 **REDES SOCIAIS**
 > Fique por dentro de tudo o que acontece na guilda ao participar dos nossos grupos!
 
-- [WhatsApp](http://abre.ai/hollowink);
+- [WhatsApp](https://bit.ly/3bKM9Yb);
 - [Twitter](https://twitter.com/HollowInkAQW);
 - [Discord](https://discord.gg/EShjXDj);
 - [Facebook]() (você terá acesso a esse grupo quando entrar na guilda principal);
