@@ -33,15 +33,6 @@
 - [Fogo](http://aq.com/char/Fogo) - Oficial
 - [Kabal](http://aq.com/char/Kabal) - Oficial
 
-**REDES SOCIAIS**
-> Fique por dentro de tudo o que acontece na guilda ao participar dos nossos grupos!
-
-- [WhatsApp](https://bit.ly/3bKM9Yb);
-- [Twitter](https://twitter.com/HollowInkAQW);
-- [Discord](https://discord.gg/EShjXDj);
-- [Facebook]() (você terá acesso a esse grupo quando entrar na guilda principal);
-- Curta a nossa [página no Facebook!](https://www.facebook.com/HollowInkGuild/).
-
 <hr>
 
 ### 📜  REGRAS
