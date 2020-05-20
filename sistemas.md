@@ -1,5 +1,20 @@
 ![image](https://user-images.githubusercontent.com/49551386/78537403-d2f8ba00-77c5-11ea-85be-7282cb91d459.png)
-## Unidade 2: Sistemas
+
+<p align="justify">DESCRIÇÃO DA UNIDADE 2</p>
+
+<center>
+ <h2>UNIDADE 2: Sistemas</h2>
+</center>
+ 
+<p align="justify">Nesta unidade, iremos te introduzir à guilda. Falaremos sobre quem somos, sobre a nossa equipe, sobre nossas regras e sobre o que oferecemos de diferente. Confirá o sumário desta publicação:</p>
+ 
+[🏰 Guild Hall](#-guild-hall)
+
+[⚔️ DESAFIOS SEMANAIS](#--desafios-semanais)
+
+[💈 CONCURSOS](#--concursos)
+
+[🎁 SORTEIOS](#--sorteios) 
 <hr>
 
 ### **🏰 Guild Hall**
