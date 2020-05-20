@@ -30,8 +30,8 @@
 - [iTeka](http://aq.com/char/iTeka) - Oficial & Designer
 - [Meikka](http://aq.com/char/Meikka) - Oficial & Designer
 - [Azurih](http://aq.com/char/Azurih) - Oficial
-- [Fogo](http://aq.com/char/Fogo) - Oficial
 - [Kabal](http://aq.com/char/Kabal) - Oficial
+- [Fogo](http://aq.com/char/Fogo) - Conselheiro
 
 **REDES SOCIAIS**
 > Fique por dentro de tudo que rola no game ao seguir nossas redes sociais ou ao entrar no Discord.
@@ -48,7 +48,8 @@
 - Não é permitido divulgar ou usar bots, launchers, trainers, macros, APKs ou qualquer outro programa de terceiros ilegal;
 - Comércio, doação ou compartilhamento de contas é terminantemente proibido;
 - Não toleramos difamações de jogadores ou de guildas;
-- Completar pelo menos um **desafio semanal** no nosso grupo do Facebook é **obrigatório**. Caso contrário, o membro será removido por inatividade;
+- Completar pelo menos um **desafio semanal** no nosso servidor do [Discord](https://discord.gg/vEks3UR) é **obrigatório**. Caso contrário, o membro será removido por inatividade;
+- É proibido **ensinar** bugs/glitchs/exploits dentro da guilda e de suas redes sociais; 
 - E o que consideramos mais importante: ajude a quem precisar, sejam eles da guilda ou não!
 
 <p align="justify">Caso alguma das regras acima seja descumprida, os Oficiais aplicarão uma punição relativa à gravidade da infração, podendo ir de um <b>mute</b> no chat da guilda até a <b>expulsão permanente</b> do membro.</p>
@@ -85,15 +86,10 @@ Como chegar lá? Basta ir para **/house HollowInk**
 <p align="center">Concorda com o que foi dito e gostaria de se juntar a HollowInk? Acesse nosso formulário de recrutamento.</p>
 
 <style>
-.h_iframe iframe {
-    width:100%;
-}
-.h_iframe {
-    width:100%;
-}
+
 </style>
 
-<div class="h_iframe">
+<div class="h_iframe" style="">
  
  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf_JyQRL_woOox3tpE5GJbKune8poikNfz0tHGZOIgZVu2A8Q/viewform?embedded=true" height="900" frameborder="0">Carregando…</iframe></div>
 
