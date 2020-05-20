@@ -32,13 +32,17 @@
 **PARTICIPAÇÃO**
 
 Em cada postagem no canal de [Desafios Semanais](Link), haverá **instruções** sobre o desafio e como fazer para **comprovar** que o concluiu. 
+
 ![image](https://i.imgur.com/mlxSFqB.png)
 
+Ao ler a postagem do desafio semanal vigente, você terá que ir no canal de [#「📥」Entradas](), postar uma captura de tela de acordo com a comprovação e esperar que algum oficial reaja com OK.
+
+![image](https://i.imgur.com/Rpeh4XG.png)
 
 - Sua entrada **NÃO** será validada caso não obedeça a comprovação;
 - Cada entrada validada te dará um 🎫 _Hollow Ticket_ para participar de um sorteio mensal. Falaremos mais sobre isso na unidade de Sorteios.
 
- ![image](https://i.imgur.com/Rpeh4XG.png)
+
  
 **PRAZO**
 
