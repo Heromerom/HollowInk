@@ -31,7 +31,7 @@
 
 Em cada postagem da unidade [Desafios Semanais](Link), haverá **instruções** sobre o desafio e como fazer para **comprovar** que o concluiu. 
 
-![image](https://i.imgur.com/Rpeh4XG.png)
+![image](https://i.imgur.com/FbwZx6N.png)
 
 - Sua entrada **NÃO** será validada caso não obedeça a comprovação;
 - Cada entrada validada te dará um 🎫 _Hollow Ticket_ para participar de um sorteio mensal. Falaremos mais sobre isso na unidade de Sorteios.
