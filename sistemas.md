@@ -6,7 +6,7 @@
  <h2>UNIDADE 2: Sistemas</h2>
 </center>
  
-<p align="justify">Nesta unidade, iremos te introduzir à guilda. Falaremos sobre quem somos, sobre a nossa equipe, sobre nossas regras e sobre o que oferecemos de diferente. Confirá o sumário desta publicação:</p>
+<p align="justify">Nesta unidade, você irá aprender mais sobre os sistemas únicos da guilda e como eles funcionam. Confira abaixo o sumário desta seção:</p>
  
 [🏰 GUILD HALL](#-guild-hall)
 
