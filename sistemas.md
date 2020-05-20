@@ -31,11 +31,11 @@
 
 **PARTICIPAÇÃO**
 
-Em cada postagem no canal de [Desafios Semanais](Link), haverá **instruções** sobre o desafio e como fazer para **comprovar** que o concluiu. 
+Em cada postagem no canal de [#Desafios-Semanais](Link), haverá **instruções** sobre o desafio e como fazer para **comprovar** que o concluiu. Experimente digitar `/Desafio23` no chat!
 
 ![image](https://i.imgur.com/mlxSFqB.png)
 
-Ao ler a postagem do desafio semanal vigente, você terá que ir no canal de [#「📥」Entradas](), postar uma captura de tela de acordo com a comprovação e esperar que algum oficial reaja com OK.
+Ao ler a postagem do desafio semanal vigente, você terá que ir no canal de [#「📥」Entradas](https://discord.gg/4gCenKW), postar uma captura de tela de acordo com a comprovação e esperar que algum oficial reaja com OK.
 
 ![image](https://i.imgur.com/Rpeh4XG.png)
 
@@ -43,7 +43,7 @@ Ao ler a postagem do desafio semanal vigente, você terá que ir no canal de [#�
 - Cada entrada validada te dará um 🎫 _Hollow Ticket_ para participar de um sorteio mensal. Falaremos mais sobre isso na unidade de Sorteios.
 
 
- 
+
 **PRAZO**
 
 Como o nome sugere, os desafios serão feitos semanalmente. Sua _duração_ irá variar de acordo com a **dificuldade**,
