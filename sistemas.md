@@ -23,6 +23,8 @@
 - Vá para /house HollowInk
 - Para usar a sala CC da casa, você precisará ter a Battleon Arena House no inventário.
 
+<hr>
+
 ### **⚔️ DESAFIOS SEMANAIS**
 
 > São missões **obrigatórias** que ajudam a manter a guilda ativa e dão aos participantes a chance de ganhar prêmios. 
@@ -49,6 +51,8 @@ Como o nome sugere, os desafios serão feitos semanalmente. Sua _duração_ irá
 
 Assim que o prazo expirar, os comentários da publicação do desafio serão **desativados** e outro será lançado.
 
+<hr>
+
 ### **💈 CONCURSOS**
 
 > Vista-se de acordo com o **tema** proposto e que o mais criativo vença!
@@ -67,6 +71,7 @@ Assim que o prazo expirar, os comentários da publicação do desafio serão **d
 - Cada voto valerá 1 ponto. 
 - Votos dos officers valerão 2 pontos. 
 
+<hr>
 
 ### **🎁 SORTEIOS**
 > Quanto mais desafios concluir, maior será a chance de ganhar!
