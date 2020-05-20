@@ -8,7 +8,7 @@
  
 <p align="justify">Nesta unidade, iremos te introduzir à guilda. Falaremos sobre quem somos, sobre a nossa equipe, sobre nossas regras e sobre o que oferecemos de diferente. Confirá o sumário desta publicação:</p>
  
-[🏰 Guild Hall](#-guild-hall)
+[🏰 GUILD HALL](#-guild-hall)
 
 [⚔️ DESAFIOS SEMANAIS](#-desafios-semanais)
 
@@ -17,13 +17,13 @@
 [🎁 SORTEIOS](#-sorteios) 
 <hr>
 
-### **🏰 Guild Hall**
+### **🏰 GUILD HALL**
 > Agora você tem um lugar para se reunir com os outros membros ou amigos no servidor **ESPADA**! 
 
 - Vá para /house HollowInk
 - Para usar a sala CC da casa, você precisará ter a Battleon Arena House no inventário.
 
-### **⚔️ Desafios Semanais**
+### **⚔️ DESAFIOS SEMANAIS**
 
 > São missões **obrigatórias** que ajudam a manter a guilda ativa e dão aos participantes a chance de ganhar prêmios. 
 
@@ -45,9 +45,7 @@ Como o nome sugere, os desafios serão feitos semanalmente. Sua _duração_ irá
 
 Assim que o prazo expirar, os comentários da publicação do desafio serão **desativados** e outro será lançado.
 
-
-
-### **💈 Concursos**
+### **💈 CONCURSOS**
 
 > Vista-se de acordo com o **tema** proposto e que o mais criativo vença!
 
@@ -66,5 +64,5 @@ Assim que o prazo expirar, os comentários da publicação do desafio serão **d
 - Votos dos officers valerão 2 pontos. 
 
 
-### **🎁 Sorteios**
+### **🎁 SORTEIOS**
 > Quanto mais desafios concluir, maior será a chance de ganhar!
