@@ -10,11 +10,11 @@
  
 [🏰 Guild Hall](#-guild-hall)
 
-[⚔️ DESAFIOS SEMANAIS](#--desafios-semanais)
+[⚔️ DESAFIOS SEMANAIS](#-desafios-semanais)
 
-[💈 CONCURSOS](#--concursos)
+[💈 CONCURSOS](#-concursos)
 
-[🎁 SORTEIOS](#--sorteios) 
+[🎁 SORTEIOS](#-sorteios) 
 <hr>
 
 ### **🏰 Guild Hall**
