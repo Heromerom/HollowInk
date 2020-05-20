@@ -31,6 +31,7 @@
 - [Meikka](http://aq.com/char/Meikka) - Oficial & Designer
 - [Azurih](http://aq.com/char/Azurih) - Oficial
 - [Kabal](http://aq.com/char/Kabal) - Oficial
+- [Samz](http://aq.com/char/Samz) - Oficial
 - [Fogo](http://aq.com/char/Fogo) - Conselheiro
 
 **REDES SOCIAIS**
