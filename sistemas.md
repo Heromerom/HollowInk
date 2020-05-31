@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/49551386/78537403-d2f8ba00-77c5-11ea-85be-7282cb91d459.png)
 
-<p align="justify">DESCRIÇÃO DA UNIDADE 2</p>
-
 <center>
  <h2>UNIDADE 2: Sistemas</h2>
 </center>
