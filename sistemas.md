@@ -18,7 +18,7 @@
 ### **🏰 GUILD HALL**
 > Agora você tem um lugar para se reunir com os outros membros ou amigos no servidor **ESPADA**! 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Este é o Guild Hall da HollowInk! Feat. Berserks, Bardos Humildes (Skylight) e bugs do AQWorlds! <a href="https://t.co/JYXUjXWvvT">pic.twitter.com/JYXUjXWvvT</a></p>&mdash; HollowInk (@HollowInkAQW) <a href="https://twitter.com/HollowInkAQW/status/1254262003675336704?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Este é o Guild Hall da HollowInk! Feat. Berserks, Bardos Humildes (Skylight) e bugs do AQWorlds! <a href="https://t.co/JYXUjXWvvT">pic.twitter.com/JYXUjXWvvT</a></p>&mdash; HollowInk (@HollowInkAQW) <a href="https://twitter.com/HollowInkAQW/status/1254262003675336704?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 - Vá para /house HollowInk
 - Para usar a sala CC da casa, você precisará ter a Battleon Arena House no inventário.
@@ -42,8 +42,6 @@ Ao ler a postagem do desafio semanal vigente, você terá que ir no canal de [#�
 - Sua entrada **NÃO** será validada caso não obedeça a comprovação;
 - Cada entrada validada te dará um 🎫 _Hollow Ticket_ para participar de um sorteio mensal. Falaremos mais sobre isso na unidade de Sorteios.
 
-
-
 **PRAZO**
 
 Como o nome sugere, os desafios serão feitos semanalmente. Sua _duração_ irá variar de acordo com a **dificuldade**,
@@ -53,7 +51,7 @@ Como o nome sugere, os desafios serão feitos semanalmente. Sua _duração_ irá
 - **Difícil** - _2 semanas_;
 - **Extremo** - _1 mês_.
 
-Assim que o prazo expirar, os comentários da publicação do desafio serão **desativados** e outro será lançado.
+Assim que o prazo expirar, outro desafio será postado e qualquer entrada do anterior será **invalidada**.
 
 <hr>
 
