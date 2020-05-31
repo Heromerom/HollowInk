@@ -20,6 +20,8 @@
 ### **🏰 GUILD HALL**
 > Agora você tem um lugar para se reunir com os outros membros ou amigos no servidor **ESPADA**! 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Este é o Guild Hall da HollowInk! Feat. Berserks, Bardos Humildes (Skylight) e bugs do AQWorlds! <a href="https://t.co/JYXUjXWvvT">pic.twitter.com/JYXUjXWvvT</a></p>&mdash; HollowInk (@HollowInkAQW) <a href="https://twitter.com/HollowInkAQW/status/1254262003675336704?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Vá para /house HollowInk
 - Para usar a sala CC da casa, você precisará ter a Battleon Arena House no inventário.
 
