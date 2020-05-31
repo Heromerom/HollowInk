@@ -33,7 +33,7 @@
 
 Em cada postagem no canal de [#Desafios-Semanais](Link), haverá **instruções** sobre o desafio e como fazer para **comprovar** que o concluiu. Experimente digitar `/Desafio23` no chat!
 
-![image](https://i.imgur.com/mlxSFqB.png)
+![image](https://giphy.com/gifs/YrBVfUB85d5t4f05Cg)
 
 Ao ler a postagem do desafio semanal vigente, você terá que ir no canal de [#「📥」Entradas](https://discord.gg/4gCenKW), postar uma captura de tela de acordo com a comprovação e esperar que algum oficial reaja com OK.
 
