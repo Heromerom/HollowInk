@@ -25,11 +25,6 @@
 
 <hr>
 
-<span class="fa-layers fa-fw fa-3x">
-                                <i class="fal fa-hexagon"></i>
-                                <i class="fa fa-medal" data-fa-transform="shrink-10"></i>
-                            </span>
-
 
 ### **⚔️ DESAFIOS SEMANAIS**
 
