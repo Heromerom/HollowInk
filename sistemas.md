@@ -79,7 +79,9 @@ Assim que o prazo expirar, outro desafio será postado e qualquer entrada do ant
 ### **🎁 SORTEIOS**
 > Quanto mais desafios concluir, maior será a chance de ganhar!
 
+
 <div>
+
 <table width="100%";>
  
 <tr>
@@ -113,4 +115,5 @@ Assim que o prazo expirar, outro desafio será postado e qualquer entrada do ant
 </tr>
 
 </table>
+
 </div>
