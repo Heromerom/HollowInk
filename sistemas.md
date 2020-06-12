@@ -81,32 +81,33 @@ Assim que o prazo expirar, outro desafio será postado e qualquer entrada do ant
 
 <div>
 <table width="100%";>
+ 
 <tr>
-<td><img src="https://www.aq.com/img/icons/icon-charpage-artix.png" style="border-radius:20px;"></img></td>
+<td><img src="https://www.aq.com/img/icons/icon-charpage-artix.png" style="border-radius:20px;"></td>
 <td><p align="left">PEN<br>Líder</p></td>
 <td>Seguir</td>
 </tr>
 
 <tr>
-<td><img src="https://www.aq.com/img/icons/icon-charpage-artix.png" style="border-radius:20px;"></img></td>
+<td><img src="https://www.aq.com/img/icons/icon-charpage-artix.png" style="border-radius:20px;"></td>
 <td><p align="left">ITEKA<br>Designer</p></td>
 <td>Seguir</td>
 </tr>
 
 <tr>
-<td><img src="https://www.aq.com/img/icons/icon-charpage-artix.png" style="border-radius:20px;"></img></td>
+<td><img src="https://www.aq.com/img/icons/icon-charpage-artix.png" style="border-radius:20px;"></td>
 <td><p align="left">MEIKKA<br>Designer</p></td>
 <td>Seguir</td>
 </tr>
 
 <tr>
-<td><img src="https://www.aq.com/img/icons/icon-charpage-artix.png" style="border-radius:20px;"></img></td>
+<td><img src="https://www.aq.com/img/icons/icon-charpage-artix.png" style="border-radius:20px;"></td>
 <td ><p align="left">AZURIH<br>Designer</p></td>
 <td>Seguir</td>
 </tr>
 
 <tr>
-<td><img src="https://www.aq.com/img/icons/icon-charpage-artix.png" style="border-radius:20px;"></img></td>
+<td><img src="https://www.aq.com/img/icons/icon-charpage-artix.png" style="border-radius:20px;"></td>
 <td><p align="left">KABAL<br>Designer</p></td>
 <td>Seguir</td>
 </tr>
