@@ -12,19 +12,53 @@
  
  }
  
- .card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 40%;
+ * {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 5px;
+}
+
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+  }
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+  padding: 1px 1px;
+  background-color: white;
+  color: black;
   border-radius:10px;
 }
 
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
+.card:hover{
+box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+cursor: pointer;
 
-.container {
-  padding: 2px 1px;
 }
 
 </style>
@@ -111,32 +145,72 @@ Assim que o prazo expirar, outro desafio será postado e qualquer entrada do ant
 ### **🎁 SORTEIOS**
 > Quanto mais desafios concluir, maior será a chance de ganhar!
 
-<div class="card">
-  <img src="https://i.imgur.com/bkoqi19.png" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>John Doe</b></h4> 
-    <p>Architect & Engineer</p> 
+<div class="row">
+
+
+  <div class="column">
+    <div class="card">
+      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <h3>Pen</h3>
+    </div>
   </div>
-</div>
-<div class="card">
-  <img src="https://i.imgur.com/bkoqi19.png" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>John Doe</b></h4> 
-    <p>Architect & Engineer</p> 
+  
+   <div class="column">
+    <div class="card">
+      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <h3>iTeka</h3>
+    </div>
   </div>
-</div>
-<div class="card">
-  <img src="https://i.imgur.com/bkoqi19.png" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>John Doe</b></h4> 
-    <p>Architect & Engineer</p> 
+  
+  <div class="column">
+    <div class="card">
+      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <h3>Meikka</h3>
+    </div>
   </div>
-</div>
-<div class="card">
-  <img src="https://i.imgur.com/bkoqi19.png" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>John Doe</b></h4> 
-    <p>Architect & Engineer</p> 
+  
+  <div class="column">
+    <div class="card">
+      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <h3>Azurih</h3>
+    </div>
   </div>
-</div>
+
+<div class="column">
+    <div class="card">
+      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <h3>Kabal</h3>
+    </div>
+  </div>
+
+<div class="column">
+    <div class="card">
+      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <h3>Fogo</h3>
+      
+    </div>
+    </div>
+    <div class="column">
+    <div class="card">
+      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <h3>Gui</h3>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <h3>_Llords_</h3>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <h3>B K_</h3>
+    </div>
+  </div>
+    
+    
+    
+    
+  </div>
 
