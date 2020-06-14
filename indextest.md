@@ -44,7 +44,6 @@
 
 .card:hover{
 box-shadow: 2px 8px 10px 2px rgba(0, 0, 0, 0.15);
-cursor: pointer;
 transition: box-shadow 0.5s;
 
 
@@ -154,7 +153,8 @@ height: 100%;
       <p><img src="https://i.imgur.com/O6BsUDp.png" class="cards"></p>
       <h3 class="small">B K_</h3><p class="small"><i>Recrutador</i></p>
       
-<p class="small2"><i class="fa fa-discord-alt"> </i><i class="fa fa-twitter"> </i><i class="fa fa-user"></i></p>
+<p class="small2"><i class="fa fa-discord-alt"> </i><i class="fa fa-twitter"> </i>
+  <a href="http://aq.com/char/BK_"><i class="fa fa-eye"></i></a></p>
       
    </div>
   </div>
