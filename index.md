@@ -35,7 +35,8 @@
 
 **REDES SOCIAIS**
 > Fique por dentro de tudo que rola no game ao seguir nossas redes sociais ou ao entrar no Discord.
-- [Discord](https://discord.gg/vEks3UR)
+
+- [Discord](https://discord.gg/xGZhPGc)
 - [Facebook](https://www.facebook.com/HollowInkGuild/)
 - [Twitter](https://twitter.com/HollowInkAQW)
 
