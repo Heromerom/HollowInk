@@ -50,7 +50,7 @@ transition: box-shadow 0.5s;
 }
 
 p.small, h3.small {
-  line-height: 0.4;
+  line-height: 0.2;
 }
 
 img.cards {
