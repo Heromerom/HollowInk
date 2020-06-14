@@ -157,59 +157,57 @@ Assim que o prazo expirar, outro desafio será postado e qualquer entrada do ant
   
    <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <p><img src="https://i.imgur.com/LrLIIZ5.png" width="100%" height="100%" border-radius="10px"></p>
       <h3>iTeka</h3>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <p><img src="https://i.imgur.com/mn516f8.png" width="100%" height="100%" border-radius="10px"></p>
       <h3>Meikka</h3>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <p><img src="https://i.imgur.com/GtXWwDP.png" width="100%" height="100%" border-radius="10px"></p>
       <h3>Azurih</h3>
     </div>
   </div>
 
 <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <p><img src="https://i.imgur.com/84dicTP.png" width="100%" height="100%" border-radius="10px"></p>
       <h3>Kabal</h3>
     </div>
   </div>
 
 <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <p><img src="https://i.imgur.com/0T1tA0T.png" width="100%" height="100%" border-radius="10px"></p>
       <h3>Fogo</h3>
       
-    </div>
+  </div>
     </div>
     <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <p><img src="https://i.imgur.com/qlbxSSJ.png" width="100%" height="100%" border-radius="10px"></p>
       <h3>Gui</h3>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <p><img src="https://i.imgur.com/aRJ75Hv.png" width="100%" height="100%" border-radius="10px"></p>
       <h3>_Llords_</h3>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
+      <p><img src="https://i.imgur.com/O6BsUDp.png" width="100%" height="100%" border-radius="10px"></p>
       <h3>B K_</h3>
     </div>
   </div>
-    
-    
     
     
   </div>
