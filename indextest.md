@@ -29,9 +29,8 @@
   }
 }
 
-/* Style the counter cards */
 .card {
-  box-shadow: 1px 5px 8px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 1px 5px 8px 1px rgba(0, 0, 0, 0.1);
   text-align: center;
   padding: 1px 1px;
   background-color: white;
@@ -43,8 +42,9 @@
 }
 
 .card:hover{
-box-shadow: 2px 10px 16px 2px rgba(0, 0, 0, 0.08);
+box-shadow: 2px 10px 16px 2px rgba(0, 0, 0, 0.15);
 cursor: pointer;
+transition: box-shadow 0.5s;
 
 
 }
