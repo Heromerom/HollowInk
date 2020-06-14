@@ -37,7 +37,7 @@
   color: black;
   border: 1px;
   border-style: solid;
-  border-color: rgb(0,0,0,0.2);
+  border-color: #dfe2e5;
   border-radius:10px;
 }
 
@@ -54,7 +54,7 @@ p.small, h3.small {
 }
 
 img.cards {
-border-radius: 8px;
+border-radius: 9px 9px 0 0;
 width: 100%;
 height: 100%;
 }
