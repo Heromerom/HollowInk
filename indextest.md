@@ -54,12 +54,10 @@ p.small, h3.small {
 }
 
 img.cards {
-
+border-radius: 10px 10px 0 0;
 width: 100%;
 height: 100%;
-
 }
-
 </style>
 
 ![image](https://user-images.githubusercontent.com/49551386/79494029-b431c900-7ff8-11ea-9de3-2c8bf7e85a4d.png)
