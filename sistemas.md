@@ -1,5 +1,10 @@
 
 <style>
+ avatar {
+ width:55px;
+ height:55px;
+ border-radius:10px;
+ }
  table {
  width:100%;
  
@@ -92,7 +97,7 @@ Assim que o prazo expirar, outro desafio será postado e qualquer entrada do ant
 <div>
 <table>
 <tr>
-<td><img src="https://www.aq.com/img/icons/icon-charpage-artix.png" style="border-radius:20px;"></td>
+<td><img class="avatar" src="https://www.aq.com/img/icons/icon-charpage-artix.png"></td>
 <td>PEN<br>Líder</td>
 <td>Seguir</td>
 </tr>
