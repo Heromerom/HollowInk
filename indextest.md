@@ -43,7 +43,7 @@
 }
 
 .card:hover{
-box-shadow: 2px 8px 10px 2px rgba(0, 0, 0, 0.15);
+box-shadow: 2px 8px 10px 2px rgba(0, 0, 0, 0.25);
 transition: box-shadow 0.5s;
 
 
