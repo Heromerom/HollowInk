@@ -75,7 +75,7 @@ height: 100%;
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 120px;
-  background-color: #555;
+  background-color: black;
   color: #fff;
   text-align: center;
   border-radius: 6px;
@@ -97,7 +97,7 @@ height: 100%;
   margin-left: -5px;
   border-width: 5px;
   border-style: solid;
-  border-color: #555 transparent transparent transparent;
+  border-color: black transparent transparent transparent;
 }
 
 .tooltip:hover .tooltiptext {
