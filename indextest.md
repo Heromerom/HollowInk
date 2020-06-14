@@ -8,7 +8,7 @@
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 33%;
+  width: 20%;
   padding: 5px 5px;
 }
 
@@ -139,6 +139,11 @@ height: 100%;
     <div class="card">
       <p><img src="https://i.imgur.com/bkoqi19.png" class="cards"></p>
       <h3 class="small">Pen</h3><p class="small"><i>Líder</i></p>
+     <p class="small2">
+<div class="tooltip"><a href="http://twitter.com/mareoceu"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+ <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Pen"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+  </p>
     </div>
   </div>
   
@@ -146,6 +151,11 @@ height: 100%;
     <div class="card">
       <p><img src="https://i.imgur.com/LrLIIZ5.png" class="cards"></p>
       <h3 class="small">iTeka</h3><p class="small"><i>Designer</i></p>
+       <p class="small2">
+<div class="tooltip"><a href="http://twitter.com/iTeka"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+ <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Meikka"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+  </p>
     </div>
   </div>
   
@@ -153,6 +163,11 @@ height: 100%;
     <div class="card">
       <p><img src="https://i.imgur.com/mn516f8.png" class="cards"></p>
        <h3 class="small">Meikka</h3><p class="small"><i>Designer</i></p>
+       <p class="small2">
+<div class="tooltip"><a href="http://twitter.com/Meikka_AE"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+ <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Meikka"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+  </p>
     </div>
   </div>
   
@@ -160,6 +175,11 @@ height: 100%;
     <div class="card">
       <p><img src="https://i.imgur.com/GtXWwDP.png" class="cards"></p>
        <h3 class="small">Azurih</h3><p class="small"><i>Chefe de Desafios</i></p>
+       <p class="small2">
+<div class="tooltip"><a href="http://twitter.com/Prime_Fenrir"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+ <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Azurih"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+  </p>
     </div>
   </div>
 
@@ -168,7 +188,11 @@ height: 100%;
   <div class="card">
      <p><img src="https://i.imgur.com/0T1tA0T.png" class="cards"></p>
      <h3 class="small">Fogo</h3><p class="small"><i>Conselheiro</i></p>
-      
+      <p class="small2">
+<div class="tooltip"><a href="http://twitter.com/TomCastro97"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+ <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Fogo"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+  </p>
     </div>
  </div>
     
@@ -176,6 +200,12 @@ height: 100%;
     <div class="card">
       <p><img src="https://i.imgur.com/qlbxSSJ.png" class="cards"></p>
       <h3 class="small">Gui</h3><p class="small"><i>Recrutador</i></p>
+      
+ <p class="small2">
+<div class="tooltip"><a href="http://twitter.com/GuiTheEvil"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+ <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Gui"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+  </p>
     </div>
   </div>
   
@@ -183,6 +213,12 @@ height: 100%;
     <div class="card">
       <p><img src="https://i.imgur.com/aRJ75Hv.png" class="cards"></p>
       <h3 class="small">_Llords_</h3><p class="small"><i>Recrutador</i></p>
+      <p class="small2">
+<div class="tooltip"><a href="http://twitter.com/Llords4"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+ <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=_Llords_"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+  </p>
+      
     </div>
   </div>
   
