@@ -1,8 +1,20 @@
+
+<style>
+ .danger {
+  background-color: #ffdddd;
+  border-left: 6px solid #f44336;
+}
+</style>
+
 ![image](https://user-images.githubusercontent.com/49551386/78537403-d2f8ba00-77c5-11ea-85be-7282cb91d459.png)
 
 <center>
  <h2>UNIDADE 2: Sistemas</h2>
 </center>
+
+<div class="danger">
+  <p><strong>Aviso!</strong> Esta unidade está em manutenção.</p>
+</div>
  
 <p align="justify">Nesta unidade, você irá aprender mais sobre os sistemas únicos da guilda e como eles funcionam. Confira abaixo o sumário desta seção:</p>
  
