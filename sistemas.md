@@ -21,7 +21,7 @@
 .column {
   float: left;
   width: 25%;
-  padding: 2px 5px;
+  padding: 5px 5px;
 }
 
 .row {margin: 0 -5px;}
