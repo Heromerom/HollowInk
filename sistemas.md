@@ -6,63 +6,26 @@
  border-radius:10px;
  }
  
- /* Three columns side by side */
-.column {
-  float: left;
-  width: 33.3%;
-  margin-bottom: 16px;
-  padding: 0 8px;
-}
 
-/* Display the columns below each other instead of side by side on small screens */
-@media screen and (max-width: 650px) {
-  .column {
-    width: 100%;
-    display: block;
-  }
-}
-
-/* Add some shadows to create a card effect */
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-}
-
-/* Some left and right padding inside the container */
-.container {
-  padding: 0 16px;
-}
-
-/* Clear floats */
-.container::after, .row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.title {
-  color: grey;
-}
-
-.button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-}
-
-.button:hover {
-  background-color: #555;
-}
- 
  table {
  width:100%;
  
  }
+ 
+ .card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  border-radius:10px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 1px;
+}
 
 </style>
 
@@ -148,56 +111,32 @@ Assim que o prazo expirar, outro desafio será postado e qualquer entrada do ant
 ### **🎁 SORTEIOS**
 > Quanto mais desafios concluir, maior será a chance de ganhar!
 
-<div>
-<table>
-<tr>
-<td><img src="https://i.imgur.com/bkoqi19.png" class="avatar"></td>
-<td>PEN<br>Líder</td>
-<td>Seguir</td>
-</tr>
-</table>
-</div>
-
-### **🎁 SORTEIOS**
-> Quanto mais desafios concluir, maior será a chance de ganhar!
-
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="img1.jpg" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="img2.jpg" alt="Mike" style="width:100%">
-      <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="img3.jpg" alt="John" style="width:100%">
-      <div class="container">
-        <h2>John Doe</h2>
-        <p class="title">Designer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
+<div class="card">
+  <img src="https://i.imgur.com/bkoqi19.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+    <p>Architect & Engineer</p> 
   </div>
 </div>
+<div class="card">
+  <img src="https://i.imgur.com/bkoqi19.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+    <p>Architect & Engineer</p> 
+  </div>
+</div>
+<div class="card">
+  <img src="https://i.imgur.com/bkoqi19.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+    <p>Architect & Engineer</p> 
+  </div>
+</div>
+<div class="card">
+  <img src="https://i.imgur.com/bkoqi19.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+    <p>Architect & Engineer</p> 
+  </div>
+</div>
+
