@@ -16,15 +16,11 @@
   box-sizing: border-box;
 }
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 /* Float four columns side by side */
 .column {
   float: left;
   width: 25%;
-  padding: 0 5px;
+  padding: 1px 5px;
 }
 
 .row {margin: 0 -5px;}
