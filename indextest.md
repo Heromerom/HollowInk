@@ -54,7 +54,7 @@ p.small, h3.small {
 }
 
 img.cards {
-border-radius: 10px 10px 0 0;
+border-radius: 5px 5px 0 0;
 width: 100%;
 height: 100%;
 }
