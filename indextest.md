@@ -183,7 +183,7 @@ height: 100%;
 
 <p align="justify">Somos a <b>primeira guilda</b> do servidor ESPADA a implementar o sistema de Guild Hall funcional. Agora nossos membros tem um lugar para se reunir!</p>
 
-<img scr="https://i.imgur.com/OJPouiB.png">
+![image](https://i.imgur.com/OJPouiB.png)
 
 Como chegar lá? Basta ir para **/house HollowInk**
 
