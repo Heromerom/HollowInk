@@ -153,7 +153,10 @@ height: 100%;
     <div class="card">
       <p><img src="https://i.imgur.com/O6BsUDp.png" class="cards"></p>
       <h3 class="small">B K_</h3><p class="small"><i>Recrutador</i></p>
-    </div>
+      
+<p class="small2"><i class="fa fa-discord-alt"> </i><i class="fa fa-twitter"> </i><i class="fa fa-user"></i></p>
+      
+   </div>
   </div>
     
     
