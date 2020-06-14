@@ -166,7 +166,7 @@ Assim que o prazo expirar, outro desafio será postado e qualquer entrada do ant
   
    <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/LrLIIZ5.png"class="cards"></p>
+      <p><img src="https://i.imgur.com/LrLIIZ5.png" class="cards"></p>
       <h3 class="small">iTeka</h3><p class="small"><i>Designer</i></p>
     </div>
   </div>
