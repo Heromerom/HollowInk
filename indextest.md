@@ -129,7 +129,7 @@ height: 100%;
     </div>
  </div>
     
-    <div class="column">
+   <div class="column">
     <div class="card">
       <p><img src="https://i.imgur.com/qlbxSSJ.png" class="cards"></p>
       <h3 class="small">Gui</h3><p class="small"><i>Recrutador</i></p>
@@ -152,7 +152,7 @@ height: 100%;
     
     
   </div>
-
+<br>
 **REDES SOCIAIS**
 > Fique por dentro de tudo que rola no game ao seguir nossas redes sociais ou ao entrar no Discord.
 
