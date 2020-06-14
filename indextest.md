@@ -65,6 +65,40 @@ border-radius: 9px 9px 0 0;
 width: 100%;
 height: 100%;
 }
+
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  content: " ";
+  position: absolute;
+  bottom: 100%;  /* At the top of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent black transparent;
+  }
 </style>
 
 ![image](https://user-images.githubusercontent.com/49551386/79494029-b431c900-7ff8-11ea-9de3-2c8bf7e85a4d.png)
@@ -154,11 +188,9 @@ height: 100%;
       <h3 class="small">B K_</h3><p class="small"><i>Recrutador</i></p>
       
 <p class="small2">
-  <a href=""><i class="fa fa-discord-alt"></i></a>
-  <a href="http://twitter.com/BehKahAE"><i class="fa fa-twitter"> </i></a>
-  <a href="http://aq.com/char/BK_"><i class="fa fa-eye"></i></a></p>
-      
-   </div>
+<div class="tooltip"><a href="http://twitter.com/BehKahAE"><i class="fa fa-twitter"> </i></a><span class="tooltiptext">Twitter</span></div>
+ <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discordr</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=b%20k_"><i class="fa fa-eye"></i></a></p><span class="tooltiptext">Char Page</span></div>
   </div>
     
     
