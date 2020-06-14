@@ -188,14 +188,13 @@ height: 100%;
       <h3 class="small">B K_</h3><p class="small"><i>Recrutador</i></p>
       
 <p class="small2">
-<div class="tooltip"><a href="http://twitter.com/BehKahAE"><i class="fa fa-twitter"> </i></a><span class="tooltiptext">Twitter</span></div>
+<div class="tooltip"><a href="http://twitter.com/BehKahAE"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
  <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discordr</span></div>
  <div class="tooltip"><a href="https://www.aq.com/character.asp?id=b%20k_"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+  </p>
+  </div> 
   </div>
-    
-    
-  </div>
-</p>
+
 <br>
 
 **REDES SOCIAIS**
