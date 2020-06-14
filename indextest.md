@@ -198,7 +198,7 @@ height: 100%;
     
    <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/qlbxSSJ.png" class="cards"></p>
+      <p><img src="https://i.imgur.com/QCklGwK.png" class="cards"></p>
       <h3 class="small">Gui</h3><p class="small"><i>Recrutador</i></p>
       
  <p class="small2">
@@ -211,7 +211,7 @@ height: 100%;
   
   <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/aRJ75Hv.png" class="cards"></p>
+      <p><img src="https://i.imgur.com/U3eAUJp.png" class="cards"></p>
       <h3 class="small">_Llords_</h3><p class="small"><i>Recrutador</i></p>
       <p class="small2">
 <div class="tooltip"><a href="http://twitter.com/Llords4"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
@@ -224,7 +224,7 @@ height: 100%;
   
   <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/O6BsUDp.png" class="cards"></p>
+      <p><img src="https://i.imgur.com/8XAUM2S.png" class="cards"></p>
       <h3 class="small">B K_</h3><p class="small"><i>Recrutador</i></p>
       
 <p class="small2">
