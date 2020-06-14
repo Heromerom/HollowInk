@@ -5,6 +5,12 @@
  height:55px;
  border-radius:10px;
  }
+ img.avatar:hover {
+ width:75px;
+ height:75px;
+ border-radius:10px;
+ }
+ 
  table {
  width:100%;
  
