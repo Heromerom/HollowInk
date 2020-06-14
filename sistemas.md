@@ -13,7 +13,7 @@
 </center>
 
 <div class="danger">
-  <p><strong>Aviso!</strong> Esta unidade está em manutenção.</p>
+  <p><strong> AVISO!</strong> Esta unidade está em manutenção.</p>
 </div>
  
 <p align="justify">Nesta unidade, você irá aprender mais sobre os sistemas únicos da guilda e como eles funcionam. Confira abaixo o sumário desta seção:</p>
