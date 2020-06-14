@@ -152,9 +152,9 @@ height: 100%;
       <p><img src="https://i.imgur.com/LrLIIZ5.png" class="cards"></p>
       <h3 class="small">iTeka</h3><p class="small"><i>Designer</i></p>
        <p class="small2">
-<div class="tooltip"><a href="http://twitter.com/iTeka"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+<div class="tooltip"><a href="http://twitter.com/_iTeka"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
  <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
- <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Meikka"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=iTeka"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
   </p>
     </div>
   </div>
