@@ -190,12 +190,14 @@ height: 100%;
 <p class="small2">
 <div class="tooltip"><a href="http://twitter.com/BehKahAE"><i class="fa fa-twitter"> </i></a><span class="tooltiptext">Twitter</span></div>
  <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discordr</span></div>
- <div class="tooltip"><a href="https://www.aq.com/character.asp?id=b%20k_"><i class="fa fa-eye"></i></a></p><span class="tooltiptext">Char Page</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=b%20k_"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
   </div>
     
     
   </div>
+</p>
 <br>
+
 **REDES SOCIAIS**
 > Fique por dentro de tudo que rola no game ao seguir nossas redes sociais ou ao entrar no Discord.
 
