@@ -97,7 +97,7 @@ Assim que o prazo expirar, outro desafio será postado e qualquer entrada do ant
 <div>
 <table>
 <tr>
-<td><img class="avatar" src="https://i.imgur.com/bkoqi19.pngg"></td>
+<td><img src="https://i.imgur.com/bkoqi19.png" class="avatar"></td>
 <td>PEN<br>Líder</td>
 <td>Seguir</td>
 </tr>
