@@ -12,9 +12,10 @@
  
  }
  
- * {
+* {
   box-sizing: border-box;
 }
+
 
 /* Float four columns side by side */
 .column {
@@ -43,7 +44,7 @@
 
 /* Style the counter cards */
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 1px 5px 8px 1px rgba(0, 0, 0, 0.2);
   text-align: center;
   padding: 1px 1px;
   background-color: white;
@@ -52,8 +53,20 @@
 }
 
 .card:hover{
-box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+box-shadow: 2px 10px 16px 2px rgba(0, 0, 0, 0.2);
 cursor: pointer;
+
+
+}
+
+p.small, h3.small {
+  line-height: 0.4;
+}
+
+img.cards {
+
+width: 100%;
+height: 100%;
 
 }
 
@@ -146,62 +159,65 @@ Assim que o prazo expirar, outro desafio será postado e qualquer entrada do ant
 
    <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/bkoqi19.png" width="100%" height="100%" border-radius="10px"></p>
-      <h3>Pen</h3><p><i>Líder</i></p>
+      <p><img src="https://i.imgur.com/bkoqi19.png" class="cards"></p>
+      <h3 class="small">Pen</h3><p class="small"><i>Líder</i></p>
     </div>
   </div>
   
    <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/LrLIIZ5.png" width="100%" height="100%" border-radius="10px"></p>
-      <h3>iTeka</h3><p><i>Designer</i></p>
+      <p><img src="https://i.imgur.com/LrLIIZ5.png"class="cards"></p>
+      <h3 class="small">iTeka</h3><p class="small"><i>Designer</i></p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/mn516f8.png" width="100%" height="100%" border-radius="10px"></p>
-      <h3>Meikka</h3><p><i>Designer</i></p>
+      <p><img src="https://i.imgur.com/mn516f8.png" class="cards"></p>
+       <h3 class="small">Meikka</h3><p class="small"><i>Designer</i></p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/GtXWwDP.png" width="100%" height="100%" border-radius="10px"></p>
-      <h3>Azurih</h3><p><i>Chefe de Desafios</i></p>
+      <p><img src="https://i.imgur.com/GtXWwDP.png" class="cards"></p>
+       <h3 class="small">Azurih</h3><p class="small"><i>Chefe de Desafios</i></p>
     </div>
   </div>
 
 <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/84dicTP.png" width="100%" height="100%" border-radius="10px"></p>
-      <h3>Kabal</h3><p><i>Oficial</i></p>
+      <p><img src="https://i.imgur.com/84dicTP.png" class="cards"></p>
+       <h3 class="small">Kabal</h3><p class="small"><i>Conselheiro</i></p>
     </div>
   </div>
 
 <div class="column">
-    <div class="card">
-      <p><img src="https://i.imgur.com/0T1tA0T.png" width="100%" height="100%" border-radius="10px"></p>
-      <h3>Fogo</h3><p><i>Conselheiro</i></p>
+  <div class="card">
+     <p><img src="https://i.imgur.com/0T1tA0T.png" class="cards"></p>
+     <h3 class="small">Fogo</h3><p class="small"><i>Conselheiro</i></p>
       
    </div>
-    </div>
-    <div class="column">
+ </div>
+    
+   <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/qlbxSSJ.png" width="100%" height="100%" border-radius="10px"></p>
-      <h3>Gui</h3><p><i>Recrutador</i></p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <p><img src="https://i.imgur.com/aRJ75Hv.png" width="100%" height="100%" border-radius="10px"></p>
-      <h3>_Llords_</h3><p><i>Recrutador</i></p>
+      <p><img src="https://i.imgur.com/qlbxSSJ.png" class="cards"></p>
+      <h3 class="small">Gui</h3><p class="small"><i>Recrutador</i></p>
     </div>
   </div>
+  
   <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/O6BsUDp.png" width="100%" height="100%" border-radius="10px"></p>
-      <h3>B K_</h3><p><i>Recrutador</i></p>
+      <p><img src="https://i.imgur.com/aRJ75Hv.png" class="cards"></p>
+      <h3 class="small">_Llords_</h3><p class="small"><i>Recrutador</i></p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p><img src="https://i.imgur.com/O6BsUDp.png" class="cards"></p>
+      <h3 class="small">B K_</h3><p class="small"><i>Recrutador</i></p>
     </div>
   </div>
     
