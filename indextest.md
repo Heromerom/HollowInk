@@ -26,7 +26,6 @@
   .column {
     width: 100%;
     display: block;
-    margin: 0 auto;
     margin-bottom: 10px;
   }
 }
