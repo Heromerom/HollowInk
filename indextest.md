@@ -174,7 +174,7 @@ height: 100%;
   <div class="column">
     <div class="card">
       <p><img src="https://i.imgur.com/GtXWwDP.png" class="cards"></p>
-       <h3 class="small">Azurih</h3><p class="small"><i>Chefe de Desafios</i></p>
+       <h3 class="small">Azurih</h3><p class="small"><i>Jornaleiro</i></p>
        <p class="small2">
 <div class="tooltip"><a href="http://twitter.com/Prime_Fenrir"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
  <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
