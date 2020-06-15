@@ -8,7 +8,7 @@
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 20%;
+  width: 25%;
   padding: 5px 5px;
 }
 
@@ -186,12 +186,12 @@ height: 100%;
 
 <div class="column">
   <div class="card">
-     <p><img src="https://i.imgur.com/CnFG9wi.png" class="cards"></p>
-     <h3 class="small">Fogo</h3><p class="small"><i>Conselheiro</i></p>
+     <p><img src="https://i.imgur.com/fjEt6pf.png" class="cards"></p>
+     <h3 class="small">Kabal</h3><p class="small"><i>Conselheiro</i></p>
       <p class="small2">
-<div class="tooltip"><a href="http://twitter.com/TomCastro97"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+<div class="tooltip"><a href="http://twitter.com/HollowInkAQW"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
  <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
- <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Fogo"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Kabal"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
   </p>
     </div>
  </div>
