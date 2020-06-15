@@ -43,7 +43,7 @@
 }
 
 .card:hover{
-box-shadow: 2px 8px 10px 2px rgba(0, 0, 0, 0.25);
+box-shadow: 0px 3px 10px 2px rgba(0, 0, 0, 0.35);
 transition: box-shadow 0.5s;
 
 
@@ -161,7 +161,7 @@ height: 100%;
   
   <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/mn516f8.png" class="cards"></p>
+      <p><img src="https://i.imgur.com/lU77ntF.png" class="cards"></p>
        <h3 class="small">Meikka</h3><p class="small"><i>Designer</i></p>
        <p class="small2">
 <div class="tooltip"><a href="http://twitter.com/Meikka_AE"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
@@ -186,7 +186,7 @@ height: 100%;
 
 <div class="column">
   <div class="card">
-     <p><img src="https://i.imgur.com/0T1tA0T.png" class="cards"></p>
+     <p><img src="https://i.imgur.com/CnFG9wi.png" class="cards"></p>
      <h3 class="small">Fogo</h3><p class="small"><i>Conselheiro</i></p>
       <p class="small2">
 <div class="tooltip"><a href="http://twitter.com/TomCastro97"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
