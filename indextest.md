@@ -8,7 +8,7 @@
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 25%;
+  width: 20%;
   padding: 5px 5px;
 }
 
@@ -22,10 +22,11 @@
 }
 
 /* Responsive columns */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 625px) {
   .column {
     width: 100%;
     display: block;
+    margin: 0 auto;
     margin-bottom: 10px;
   }
 }
@@ -61,7 +62,7 @@ line-height: 0.2;
 }
 
 img.cards {
-border-radius: 9px 9px 0 0;
+border-radius: 10px 10px 0 0;
 width: 100%;
 height: 100%;
 }
