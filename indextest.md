@@ -292,13 +292,8 @@ Como chegar lá? Basta ir para **/house HollowInk**
 
 <p align="center">Concorda com o que foi dito e gostaria de se juntar a HollowInk? Acesse nosso formulário de recrutamento.</p>
 
-<style>
-
-</style>
-
-<div class="h_iframe" style="">
  
- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf_JyQRL_woOox3tpE5GJbKune8poikNfz0tHGZOIgZVu2A8Q/viewform?embedded=true" height="900" frameborder="0">Carregando…</iframe></div>
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf_JyQRL_woOox3tpE5GJbKune8poikNfz0tHGZOIgZVu2A8Q/viewform?embedded=true" width="100%" height="900" frameborder="0">Carregando…</iframe></div>
 
 
 [⬆️ VOLTAR PARA O TOPO](http://heromerom.github.io/HollowInk)
