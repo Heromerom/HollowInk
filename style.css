@@ -26,6 +26,11 @@
     display: block;
     margin-bottom: 10px;
   }
+  img.cards {
+  border-radius: 8px 8px 0 0;
+  width: auto;
+  height: auto;
+}
 }
 
 .card {
@@ -54,12 +59,6 @@ p.small, h3.small {
 p.small2 {
   letter-spacing: 3px;
   line-height: 0.2;
-}
-
-imgcard {
-  border-radius: 10px 10px 0 0;
-  width: 100%;
-  height: 100%;
 }
 
 .tooltip {
