@@ -6,7 +6,7 @@
 /* Float four columns side by side */
 .column {
   float: left;
-  width: auto;
+  width: 25%;
   padding: 5px 5px;
 }
 
