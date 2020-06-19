@@ -22,15 +22,11 @@
 /* Responsive columns */
 @media screen and (max-width: 625px) {
   .column {
-    width: 100%;
+    width: 33%;
     display: block;
     margin-bottom: 10px;
   }
-  img.cards {
-  border-radius: 8px 8px 0 0;
-  width: auto;
-  height: auto;
-}
+
 }
 
 .card {
@@ -50,6 +46,12 @@
   transition: box-shadow 0.5s;
 
 
+}
+
+  img.cards {
+  border-radius: 8px 8px 0 0;
+  width: auto;
+  height: auto;
 }
 
 p.small, h3.small {
