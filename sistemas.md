@@ -36,7 +36,7 @@
 
 ![image](https://media.giphy.com/media/YrBVfUB85d5t4f05Cg/source.gif)
 
-<p align="justify">Ao ler a postagem do desafio semanal vigente, você terá que ir no canal de <a href="https://discord.gg/4gCenKW">#「📥」Entradas]</a>, postar uma captura de tela de acordo com a comprovação e esperar que algum oficial reaja com OK.</p>
+<p align="justify">Ao ler a postagem do desafio semanal vigente, você terá que ir no canal de <a href="https://discord.gg/4gCenKW">#「📥」Entradas</a>, postar uma captura de tela de acordo com a comprovação e esperar que algum oficial reaja com OK.</p>
 
 ![image](https://i.imgur.com/Rpeh4XG.png)
 
@@ -45,7 +45,7 @@
 
 **PRAZO**
 
-<p align="justify">Como o nome sugere, os desafios serão feitos semanalmente. Sua <i>duração</i> irá variar de acordo com a <strong>dificuldade</strong>,
+<p align="justify">Como o nome sugere, os desafios serão feitos semanalmente. Sua <i>duração</i> irá variar de acordo com a <strong>dificuldade</strong>.</p>
 
 - **Fácil** - _1 semana_;
 - **Médio** - _1 semana_;
