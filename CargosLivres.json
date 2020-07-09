@@ -1,0 +1,59 @@
+{
+  "embeds": [
+    {
+      "title": ":bookmark:  **CARGOS LIVRES**",
+      "description": "Para receber os **cargos** abaixo, basta **reagir** com o emoji equivalente.",
+      "color": 7506394
+    },
+    {
+      "title": "👏 **ALIANÇA**",
+      "description": "Reaja a esta publicação com o emoji referente à sua guilda. Você só poderá pegar **um** destes.",
+      "color": 4438060,
+      "fields": [
+        {
+          "name": ":axe: Berserks",
+          "value": "Líder: Epii\n",
+          "inline": true
+        },
+        {
+          "name": ":watermelon: My Heaven",
+          "value": "Líder: Maicompdr",
+          "inline": true
+        },
+        {
+          "name": " :herb: Root Family   ",
+          "value": "Líder: Carlgrugre",
+          "inline": true
+        },
+        {
+          "name": ":japanese_ogre: Void Avengers  ",
+          "value": "Líder: Tendou no Mazo",
+          "inline": true
+        },
+        {
+          "name": " :horse: WarHorse   ",
+          "value": "Líder: Dealer",
+          "inline": true
+        },
+        {
+          "name": ":star: Sua guilda aqui",
+          "value": "Entre em contato.",
+          "inline": true
+        }
+      ],
+      "footer": {
+        "text": " REAJA ABAIXO ▼"
+      }
+    },
+    {
+      "title": ":book: AVENTURA",
+      "description": "Reaja a esta publicação com o emoji referente ao cargo que quer. Você poderá escolher mais que um.",
+      "color": 1883574,
+      "footer": {
+        "text": " REAJA ABAIXO ▼"
+      }
+    }
+  ],
+  "username": "HollowInk | Menu",
+  "avatar_url": "https://i.imgur.com/QFu1fC5.png"
+}
