@@ -47,10 +47,10 @@
   
    <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/LrLIIZ5.png" class="cards"></p>
+      <p><img src="https://i.imgur.com/SDLREmH.png" class="cards"></p>
       <h3 class="small">iTeka</h3><p class="small"><i>Designer</i></p>
        <p class="small2">
-<div class="tooltip"><a href="http://twitter.com/_iTeka"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+<div class="tooltip"><a href="http://twitter.com/iTeka_AQW"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
  <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
  <div class="tooltip"><a href="https://www.aq.com/character.asp?id=iTeka"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
   </p>
@@ -59,12 +59,12 @@
   
   <div class="column">
     <div class="card">
-      <p><img src="https://pbs.twimg.com/profile_images/1358861123831873536/ngpSOg2y_400x400.jpg" class="cards"></p>
+      <p><img src="https://i.imgur.com/QIpIKoC.png" class="cards"></p>
        <h3 class="small">Lupum</h3><p class="small"><i>Recrutador</i></p>
        <p class="small2">
 <div class="tooltip"><a href="http://twitter.com/heryjordan_"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
  <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
- <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Meikka"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Lupum"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
   </p>
     </div>
   </div>
@@ -87,34 +87,21 @@
      <p><img src="https://i.imgur.com/fjEt6pf.png" class="cards"></p>
      <h3 class="small">Redyf</h3><p class="small"><i>Recrutador</i></p>
       <p class="small2">
-<div class="tooltip"><a href="http://twitter.com/HollowInkAQW"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+<div class="tooltip"><a href="http://twitter.com/RedyfXbl"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
  <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
- <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Kabal"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Redyf"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
   </p>
     </div>
  </div>
-    
-   <div class="column">
-    <div class="card">
-      <p><img src="https://i.imgur.com/QCklGwK.png" class="cards"></p>
-      <h3 class="small">Gui</h3><p class="small"><i>Recrutador</i></p>
-      
- <p class="small2">
-<div class="tooltip"><a href="http://twitter.com/GuiTheEvil"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
- <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
- <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Gui"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
-  </p>
-    </div>
-  </div>
   
   <div class="column">
     <div class="card">
       <p><img src="https://i.imgur.com/U3eAUJp.png" class="cards"></p>
-      <h3 class="small">_Llords_</h3><p class="small"><i>Recrutador</i></p>
+      <h3 class="small">Llords</h3><p class="small"><i>Recrutador</i></p>
       <p class="small2">
 <div class="tooltip"><a href="http://twitter.com/Llords4"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
  <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
- <div class="tooltip"><a href="https://www.aq.com/character.asp?id=_Llords_"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Llords"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
   </p>
       
     </div>
@@ -123,15 +110,16 @@
   <div class="column">
     <div class="card">
       <p><img src="https://i.imgur.com/8XAUM2S.png" class="cards"></p>
-      <h3 class="small">B K_</h3><p class="small"><i>Recrutador</i></p>
+      <h3 class="small">Deevil</h3><p class="small"><i>Recrutador</i></p>
       
 <p class="small2">
-<div class="tooltip"><a href="http://twitter.com/BehKahAE"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+<div class="tooltip"><a href="http://twitter.com/deevil_ae"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
  <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
- <div class="tooltip"><a href="https://www.aq.com/character.asp?id=b%20k_"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
+ <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Deevil"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
   </p>
   </div> 
   </div>
+  
   </div>
 
 <br>
