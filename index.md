@@ -84,7 +84,7 @@
 
 <div class="column">
   <div class="card">
-     <p><img src="https://i.imgur.com/fjEt6pf.png" class="cards"></p>
+     <p><img src="https://i.imgur.com/veoSgTC.png" class="cards"></p>
      <h3 class="small">Redyf</h3><p class="small"><i>Recrutador</i></p>
       <p class="small2">
 <div class="tooltip"><a href="http://twitter.com/RedyfXbl"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
