@@ -3,8 +3,6 @@
 <link href="./style.css" type="text/css" rel="stylesheet">
 </head>
 
-
-
 ![image](https://user-images.githubusercontent.com/49551386/79494029-b431c900-7ff8-11ea-9de3-2c8bf7e85a4d.png)
 
 <p align="justify">Aqui você começará sua jornada e se juntará aos bravos aventureiros de toda Lore. Para te auxiliar nessa missão, criamos as unidades de aprendizagem, que irão te ensinar como funcionam as coisas por aqui.</p>
@@ -61,10 +59,10 @@
   
   <div class="column">
     <div class="card">
-      <p><img src="https://i.imgur.com/lU77ntF.png" class="cards"></p>
-       <h3 class="small">Meikka</h3><p class="small"><i>Designer</i></p>
+      <p><img src="https://pbs.twimg.com/profile_images/1358861123831873536/ngpSOg2y_400x400.jpg" class="cards"></p>
+       <h3 class="small">Lupum</h3><p class="small"><i>Recrutador</i></p>
        <p class="small2">
-<div class="tooltip"><a href="http://twitter.com/Meikka_AE"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
+<div class="tooltip"><a href="http://twitter.com/heryjordan_"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
  <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
  <div class="tooltip"><a href="https://www.aq.com/character.asp?id=Meikka"><i class="fa fa-eye"></i></a><span class="tooltiptext">Char Page</span></div>
   </p>
@@ -87,7 +85,7 @@
 <div class="column">
   <div class="card">
      <p><img src="https://i.imgur.com/fjEt6pf.png" class="cards"></p>
-     <h3 class="small">Kabal</h3><p class="small"><i>Conselheiro</i></p>
+     <h3 class="small">Redyf</h3><p class="small"><i>Recrutador</i></p>
       <p class="small2">
 <div class="tooltip"><a href="http://twitter.com/HollowInkAQW"><i class="fa fa-twitter"></i></a><span class="tooltiptext">Twitter</span></div>
  <div class="tooltip"><a href=""><i class="fa fa-discord-alt"></i></a><span class="tooltiptext">Discord</span></div>
