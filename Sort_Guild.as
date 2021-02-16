@@ -20,3 +20,22 @@ public static function sortGuild() : void
             main.Game.world.showGuildList();
          }
       }
+      
+      public static function onKey(e:KeyboardEvent) : void
+      {
+         var chatF:* = main.Game.chatF;
+         var world:* = main.Game.world;
+         var ui:* = main.Game.ui;
+         if(!("text" in e.target))
+         {
+            if(String.fromCharCode(e.charCode) == "g")
+            {
+               if(main._stage.focus != ui.mcInterface.te)
+               {
+                  sortGuild();
+               }
+            }
+            
+            }
+         }
+      
